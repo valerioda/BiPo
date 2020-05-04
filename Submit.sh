@@ -1,0 +1,1 @@
+qsub -q gerda -d /nfs/gerda2/BiPo/valerio -e localhost:/nfs/gerda2/BiPo/valerio/file.err -o localhost:/nfs/gerda2/BiPo/valerio/file.out -m ae -M dandrea@lngs.infn.it /nfs/gerda2/BiPo/valerio/script.sh
