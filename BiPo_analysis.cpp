@@ -28,10 +28,10 @@ using namespace gada;
 
 void BiPo_analysis(){
   gROOT->SetBatch();
-  const int nChn = 40;
-  int firstRun = 53;
-  int lastRun = 93;
-  char *mapping_file = Form("mapping_phaseII.txt");
+  const int nChn = 41;
+  int firstRun = 95;
+  int lastRun = 114;
+  char *mapping_file = Form("mapping_phaseII+.txt");
   
   //------- DETECTOR MAPPING -------
   struct detector {
@@ -355,8 +355,6 @@ void BiPo_analysis(){
   bool first = true;
   
   //loop sulle entries della masterChain		
-  //for (int i = 0; i < masterChain->GetEntries(); i++) {
-  
   for (int i = 0; i < masterChain->GetEntries(); i++) {
     masterChain->GetEntry(i);
     
