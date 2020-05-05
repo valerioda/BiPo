@@ -1,0 +1,5267 @@
+   ------------------------------------------------------------
+  | Welcome to ROOT 6.04/10                http://root.cern.ch |
+  |                               (c) 1995-2014, The ROOT Team |
+  | Built for linuxx8664gcc                                    |
+  | From tag v6-04-10, 18 November 2015                        |
+  | Try '.help', '.demo', '.license', '.credits', '.quit'/'.q' |
+   ------------------------------------------------------------
+
+
+Processing /nfs/gerda2/BiPo/valerio/runBiPo.cpp...
+ 
+ Time for master chain (tier 1+2+3+4) building: RealTime=0.315094s. CpuTime=0.19s. Number of events in the Chain=3402287
+ 
+ ...processing event 0 of 3402287
+ ...processing event 1000 of 3402287
+ ...processing event 2000 of 3402287
+2701 timeDiff = 0.000259321
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+2701 timeDiff = 0.000311202
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+2701 timeDiff = 0.000858214
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+2701 timeDiff = 0.00103033
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+2702 timeDiff = 5.18811e-05
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+2702 timeDiff = 0.000598893
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+2702 timeDiff = 0.000771014
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+2704 timeDiff = 0.000172121
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 3000 of 3402287
+ ...processing event 4000 of 3402287
+ ...processing event 5000 of 3402287
+5272 timeDiff = 0.000257271
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+5272 timeDiff = 0.000323942
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+5272 timeDiff = 0.000377972
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+5272 timeDiff = 0.00158
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+5273 timeDiff = 6.66711e-05
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+5273 timeDiff = 0.000120701
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+5273 timeDiff = 0.00132273
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+5273 timeDiff = 0.00142502
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+5276 timeDiff = 0.000102291
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 6000 of 3402287
+6407 timeDiff = 0.000560953
+38 23
+Events in strings 7 and 4 with near detectors
+38 23 multiplicity = 1 1 energy = 91.0158 303.846, failedFlag2 = 0 isLarVetoed1 = 1 isLarVetoed2 = 0 timeDiff = 0.000560953
+ ...processing event 7000 of 3402287
+ ...processing event 8000 of 3402287
+ ...processing event 9000 of 3402287
+ ...processing event 10000 of 3402287
+ ...processing event 11000 of 3402287
+ ...processing event 12000 of 3402287
+ ...processing event 13000 of 3402287
+ ...processing event 14000 of 3402287
+14509 timeDiff = 5.185e-05
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 15000 of 3402287
+ ...processing event 16000 of 3402287
+ ...processing event 17000 of 3402287
+ ...processing event 18000 of 3402287
+ ...processing event 19000 of 3402287
+ ...processing event 20000 of 3402287
+ ...processing event 21000 of 3402287
+ ...processing event 22000 of 3402287
+ ...processing event 23000 of 3402287
+ ...processing event 24000 of 3402287
+ ...processing event 25000 of 3402287
+ ...processing event 26000 of 3402287
+ ...processing event 27000 of 3402287
+ ...processing event 28000 of 3402287
+ ...processing event 29000 of 3402287
+ ...processing event 30000 of 3402287
+ ...processing event 31000 of 3402287
+ ...processing event 32000 of 3402287
+ ...processing event 33000 of 3402287
+ ...processing event 34000 of 3402287
+34013 timeDiff = 0.000258931
+25 -99
+Events in chn 25 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 35000 of 3402287
+ ...processing event 36000 of 3402287
+ ...processing event 37000 of 3402287
+37137 timeDiff = 0.000606993
+3 -99
+ ...processing event 38000 of 3402287
+ ...processing event 39000 of 3402287
+ ...processing event 40000 of 3402287
+ ...processing event 41000 of 3402287
+41932 timeDiff = 6.3611e-05
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+41932 timeDiff = 0.000344792
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+41932 timeDiff = 0.000402012
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+41932 timeDiff = 0.000455923
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+41934 timeDiff = 5.722e-05
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+41934 timeDiff = 0.000111131
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 42000 of 3402287
+ ...processing event 43000 of 3402287
+ ...processing event 44000 of 3402287
+ ...processing event 45000 of 3402287
+ ...processing event 46000 of 3402287
+ ...processing event 47000 of 3402287
+ ...processing event 48000 of 3402287
+ ...processing event 49000 of 3402287
+ ...processing event 50000 of 3402287
+50165 timeDiff = 0.00012971
+4 -99
+ ...processing event 51000 of 3402287
+ ...processing event 52000 of 3402287
+52791 timeDiff = 0.000972004
+14 -99
+Events in chn 14 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 53000 of 3402287
+53710 timeDiff = 0.000416442
+39 -99
+ ...processing event 54000 of 3402287
+ ...processing event 55000 of 3402287
+ ...processing event 56000 of 3402287
+ ...processing event 57000 of 3402287
+ ...processing event 58000 of 3402287
+ ...processing event 59000 of 3402287
+ ...processing event 60000 of 3402287
+ ...processing event 61000 of 3402287
+61255 timeDiff = 0.000151781
+39 -99
+BiPo Event of type II in ch 31
+event 61645 energy 1626.91 BaselineSigma 36.4831 Trigger2Position 88920 PeakPosition: 84460 6.95239e-310
+ ...processing event 62000 of 3402287
+ ...processing event 63000 of 3402287
+ ...processing event 64000 of 3402287
+64551 timeDiff = 0.00157836
+26 -99
+Events in chn 26 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 65000 of 3402287
+ ...processing event 66000 of 3402287
+66140 timeDiff = 9.83301e-05
+39 -99
+ ...processing event 67000 of 3402287
+ ...processing event 68000 of 3402287
+ ...processing event 69000 of 3402287
+ ...processing event 70000 of 3402287
+ ...processing event 71000 of 3402287
+ ...processing event 72000 of 3402287
+ ...processing event 73000 of 3402287
+ ...processing event 74000 of 3402287
+ ...processing event 75000 of 3402287
+ ...processing event 76000 of 3402287
+76362 timeDiff = 0.00125732
+23 -99
+Events in chn 23 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 77000 of 3402287
+ ...processing event 78000 of 3402287
+78815 timeDiff = 0.000285861
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+78815 timeDiff = 0.000343052
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+78816 timeDiff = 5.7191e-05
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 79000 of 3402287
+ ...processing event 80000 of 3402287
+ ...processing event 81000 of 3402287
+81419 timeDiff = 5.6221e-05
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 82000 of 3402287
+ ...processing event 83000 of 3402287
+ ...processing event 84000 of 3402287
+ ...processing event 85000 of 3402287
+ ...processing event 86000 of 3402287
+ ...processing event 87000 of 3402287
+ ...processing event 88000 of 3402287
+88890 timeDiff = 5.071e-05
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 89000 of 3402287
+ ...processing event 90000 of 3402287
+90984 timeDiff = 0.00159697
+38 -99
+ ...processing event 91000 of 3402287
+ ...processing event 92000 of 3402287
+ ...processing event 93000 of 3402287
+ ...processing event 94000 of 3402287
+ ...processing event 95000 of 3402287
+95116 timeDiff = 0.00136648
+24 -99
+Events in chn 24 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 96000 of 3402287
+ ...processing event 97000 of 3402287
+ ...processing event 98000 of 3402287
+ ...processing event 99000 of 3402287
+99205 timeDiff = 0.000379832
+39 -99
+99210 timeDiff = 0.000673833
+39 -99
+99210 timeDiff = 0.00102777
+39 -99
+99210 timeDiff = 0.00112591
+39 -99
+99211 timeDiff = 0.000353942
+39 -99
+99211 timeDiff = 0.000452073
+39 -99
+ ...processing event 100000 of 3402287
+ ...processing event 101000 of 3402287
+101262 timeDiff = 0.000599183
+6 -99
+ ...processing event 102000 of 3402287
+ ...processing event 103000 of 3402287
+ ...processing event 104000 of 3402287
+ ...processing event 105000 of 3402287
+ ...processing event 106000 of 3402287
+ ...processing event 107000 of 3402287
+ ...processing event 108000 of 3402287
+108846 timeDiff = 0.00158357
+40 -99
+ ...processing event 109000 of 3402287
+ ...processing event 110000 of 3402287
+ ...processing event 111000 of 3402287
+ ...processing event 112000 of 3402287
+ ...processing event 113000 of 3402287
+ ...processing event 114000 of 3402287
+ ...processing event 115000 of 3402287
+ ...processing event 116000 of 3402287
+ ...processing event 117000 of 3402287
+ ...processing event 118000 of 3402287
+ ...processing event 119000 of 3402287
+ ...processing event 120000 of 3402287
+ ...processing event 121000 of 3402287
+ ...processing event 122000 of 3402287
+ ...processing event 123000 of 3402287
+ ...processing event 124000 of 3402287
+ ...processing event 125000 of 3402287
+ ...processing event 126000 of 3402287
+ ...processing event 127000 of 3402287
+ ...processing event 128000 of 3402287
+ ...processing event 129000 of 3402287
+ ...processing event 130000 of 3402287
+ ...processing event 131000 of 3402287
+131868 timeDiff = 0.0013085
+7 -99
+ ...processing event 132000 of 3402287
+ ...processing event 133000 of 3402287
+ ...processing event 134000 of 3402287
+ ...processing event 135000 of 3402287
+ ...processing event 136000 of 3402287
+136331 timeDiff = 0.000101301
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 137000 of 3402287
+ ...processing event 138000 of 3402287
+ ...processing event 139000 of 3402287
+139502 timeDiff = 0.000457942
+40 -99
+ ...processing event 140000 of 3402287
+ ...processing event 141000 of 3402287
+ ...processing event 142000 of 3402287
+ ...processing event 143000 of 3402287
+ ...processing event 144000 of 3402287
+ ...processing event 145000 of 3402287
+ ...processing event 146000 of 3402287
+ ...processing event 147000 of 3402287
+ ...processing event 148000 of 3402287
+ ...processing event 149000 of 3402287
+149339 timeDiff = 0.00159869
+24 -99
+Events in chn 24 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 150000 of 3402287
+ ...processing event 151000 of 3402287
+ ...processing event 152000 of 3402287
+ ...processing event 153000 of 3402287
+153350 timeDiff = 0.000815904
+39 -99
+ ...processing event 154000 of 3402287
+ ...processing event 155000 of 3402287
+ ...processing event 156000 of 3402287
+ ...processing event 157000 of 3402287
+157034 timeDiff = 0.000727504
+10 -99
+Events in chn 10 and -99, in strings 2 and 0 -> NOT a BiPo EVENT
+ ...processing event 158000 of 3402287
+ ...processing event 159000 of 3402287
+ ...processing event 160000 of 3402287
+ ...processing event 161000 of 3402287
+ ...processing event 162000 of 3402287
+ ...processing event 163000 of 3402287
+163165 timeDiff = 0.00163291
+15 -99
+Events in chn 15 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 164000 of 3402287
+ ...processing event 165000 of 3402287
+ ...processing event 166000 of 3402287
+ ...processing event 167000 of 3402287
+ ...processing event 168000 of 3402287
+ ...processing event 169000 of 3402287
+ ...processing event 170000 of 3402287
+170506 timeDiff = 0.00160005
+25 -99
+Events in chn 25 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 171000 of 3402287
+ ...processing event 172000 of 3402287
+ ...processing event 173000 of 3402287
+ ...processing event 174000 of 3402287
+174759 timeDiff = 0.000899804
+37 -99
+ ...processing event 175000 of 3402287
+ ...processing event 176000 of 3402287
+ ...processing event 177000 of 3402287
+ ...processing event 178000 of 3402287
+ ...processing event 179000 of 3402287
+ ...processing event 180000 of 3402287
+ ...processing event 181000 of 3402287
+ ...processing event 182000 of 3402287
+182084 timeDiff = 0.00110153
+29 -99
+Events in chn 29 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+ ...processing event 183000 of 3402287
+ ...processing event 184000 of 3402287
+ ...processing event 185000 of 3402287
+ ...processing event 186000 of 3402287
+ ...processing event 187000 of 3402287
+ ...processing event 188000 of 3402287
+188412 timeDiff = 0.00011137
+0 -99
+ ...processing event 189000 of 3402287
+ ...processing event 190000 of 3402287
+ ...processing event 191000 of 3402287
+191001 timeDiff = 0.000148671
+9 -99
+Events in chn 9 and -99, in strings 2 and 0 -> NOT a BiPo EVENT
+ ...processing event 192000 of 3402287
+ ...processing event 193000 of 3402287
+ ...processing event 194000 of 3402287
+ ...processing event 195000 of 3402287
+ ...processing event 196000 of 3402287
+ ...processing event 197000 of 3402287
+ ...processing event 198000 of 3402287
+ ...processing event 199000 of 3402287
+ ...processing event 200000 of 3402287
+ ...processing event 201000 of 3402287
+ ...processing event 202000 of 3402287
+202450 timeDiff = 0.000214961
+8 -99
+Events in chn 8 and -99, in strings 2 and 0 -> NOT a BiPo EVENT
+ ...processing event 203000 of 3402287
+ ...processing event 204000 of 3402287
+ ...processing event 205000 of 3402287
+ ...processing event 206000 of 3402287
+ ...processing event 207000 of 3402287
+ ...processing event 208000 of 3402287
+ ...processing event 209000 of 3402287
+ ...processing event 210000 of 3402287
+ ...processing event 211000 of 3402287
+ ...processing event 212000 of 3402287
+ ...processing event 213000 of 3402287
+ ...processing event 214000 of 3402287
+214191 timeDiff = 0.000744594
+29 -99
+Events in chn 29 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+ ...processing event 215000 of 3402287
+ ...processing event 216000 of 3402287
+ ...processing event 217000 of 3402287
+ ...processing event 218000 of 3402287
+ ...processing event 219000 of 3402287
+ ...processing event 220000 of 3402287
+ ...processing event 221000 of 3402287
+ ...processing event 222000 of 3402287
+ ...processing event 223000 of 3402287
+ ...processing event 224000 of 3402287
+ ...processing event 225000 of 3402287
+ ...processing event 226000 of 3402287
+ ...processing event 227000 of 3402287
+ ...processing event 228000 of 3402287
+ ...processing event 229000 of 3402287
+229004 timeDiff = 0.00120947
+3 -99
+ ...processing event 230000 of 3402287
+ ...processing event 231000 of 3402287
+ ...processing event 232000 of 3402287
+ ...processing event 233000 of 3402287
+ ...processing event 234000 of 3402287
+ ...processing event 235000 of 3402287
+ ...processing event 236000 of 3402287
+ ...processing event 237000 of 3402287
+ ...processing event 238000 of 3402287
+238157 timeDiff = 0.00120853
+35 -99
+Events in chn 35 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 239000 of 3402287
+ ...processing event 240000 of 3402287
+ ...processing event 241000 of 3402287
+ ...processing event 242000 of 3402287
+ ...processing event 243000 of 3402287
+ ...processing event 244000 of 3402287
+ ...processing event 245000 of 3402287
+ ...processing event 246000 of 3402287
+ ...processing event 247000 of 3402287
+ ...processing event 248000 of 3402287
+ ...processing event 249000 of 3402287
+ ...processing event 250000 of 3402287
+ ...processing event 251000 of 3402287
+251106 timeDiff = 0.000387212
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 252000 of 3402287
+ ...processing event 253000 of 3402287
+ ...processing event 254000 of 3402287
+ ...processing event 255000 of 3402287
+255784 timeDiff = 0.000411053
+5 -99
+ ...processing event 256000 of 3402287
+256074 timeDiff = 0.00100129
+13 -99
+Events in chn 13 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 257000 of 3402287
+ ...processing event 258000 of 3402287
+ ...processing event 259000 of 3402287
+ ...processing event 260000 of 3402287
+ ...processing event 261000 of 3402287
+ ...processing event 262000 of 3402287
+ ...processing event 263000 of 3402287
+263162 timeDiff = 0.00120747
+34 -99
+Events in chn 34 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 264000 of 3402287
+ ...processing event 265000 of 3402287
+ ...processing event 266000 of 3402287
+ ...processing event 267000 of 3402287
+ ...processing event 268000 of 3402287
+ ...processing event 269000 of 3402287
+269750 timeDiff = 0.00136873
+9 -99
+Events in chn 9 and -99, in strings 2 and 0 -> NOT a BiPo EVENT
+ ...processing event 270000 of 3402287
+ ...processing event 271000 of 3402287
+ ...processing event 272000 of 3402287
+ ...processing event 273000 of 3402287
+ ...processing event 274000 of 3402287
+ ...processing event 275000 of 3402287
+ ...processing event 276000 of 3402287
+ ...processing event 277000 of 3402287
+ ...processing event 278000 of 3402287
+278492 timeDiff = 0.00014457
+6 -99
+ ...processing event 279000 of 3402287
+ ...processing event 280000 of 3402287
+ ...processing event 281000 of 3402287
+ ...processing event 282000 of 3402287
+282300 timeDiff = 0.000605953
+28 -99
+Events in chn 28 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+ ...processing event 283000 of 3402287
+ ...processing event 284000 of 3402287
+284396 timeDiff = 0.000709284
+40 -99
+ ...processing event 285000 of 3402287
+ ...processing event 286000 of 3402287
+ ...processing event 287000 of 3402287
+ ...processing event 288000 of 3402287
+ ...processing event 289000 of 3402287
+ ...processing event 290000 of 3402287
+ ...processing event 291000 of 3402287
+ ...processing event 292000 of 3402287
+ ...processing event 293000 of 3402287
+ ...processing event 294000 of 3402287
+294002 timeDiff = 0.00102287
+37 -99
+ ...processing event 295000 of 3402287
+ ...processing event 296000 of 3402287
+ ...processing event 297000 of 3402287
+ ...processing event 298000 of 3402287
+ ...processing event 299000 of 3402287
+ ...processing event 300000 of 3402287
+300910 timeDiff = 0.000903054
+23 -99
+Events in chn 23 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 301000 of 3402287
+ ...processing event 302000 of 3402287
+ ...processing event 303000 of 3402287
+ ...processing event 304000 of 3402287
+ ...processing event 305000 of 3402287
+ ...processing event 306000 of 3402287
+ ...processing event 307000 of 3402287
+ ...processing event 308000 of 3402287
+ ...processing event 309000 of 3402287
+ ...processing event 310000 of 3402287
+ ...processing event 311000 of 3402287
+ ...processing event 312000 of 3402287
+ ...processing event 313000 of 3402287
+ ...processing event 314000 of 3402287
+ ...processing event 315000 of 3402287
+ ...processing event 316000 of 3402287
+ ...processing event 317000 of 3402287
+317596 timeDiff = 0.00128849
+10 -99
+Events in chn 10 and -99, in strings 2 and 0 -> NOT a BiPo EVENT
+ ...processing event 318000 of 3402287
+318936 timeDiff = 0.00147667
+37 -99
+ ...processing event 319000 of 3402287
+ ...processing event 320000 of 3402287
+ ...processing event 321000 of 3402287
+ ...processing event 322000 of 3402287
+ ...processing event 323000 of 3402287
+ ...processing event 324000 of 3402287
+ ...processing event 325000 of 3402287
+ ...processing event 326000 of 3402287
+ ...processing event 327000 of 3402287
+ ...processing event 328000 of 3402287
+ ...processing event 329000 of 3402287
+ ...processing event 330000 of 3402287
+ ...processing event 331000 of 3402287
+ ...processing event 332000 of 3402287
+ ...processing event 333000 of 3402287
+ ...processing event 334000 of 3402287
+ ...processing event 335000 of 3402287
+ ...processing event 336000 of 3402287
+ ...processing event 337000 of 3402287
+ ...processing event 338000 of 3402287
+ ...processing event 339000 of 3402287
+ ...processing event 340000 of 3402287
+ ...processing event 341000 of 3402287
+ ...processing event 342000 of 3402287
+ ...processing event 343000 of 3402287
+343467 timeDiff = 0.00120937
+10 -99
+Events in chn 10 and -99, in strings 2 and 0 -> NOT a BiPo EVENT
+ ...processing event 344000 of 3402287
+ ...processing event 345000 of 3402287
+ ...processing event 346000 of 3402287
+ ...processing event 347000 of 3402287
+ ...processing event 348000 of 3402287
+ ...processing event 349000 of 3402287
+ ...processing event 350000 of 3402287
+ ...processing event 351000 of 3402287
+ ...processing event 352000 of 3402287
+ ...processing event 353000 of 3402287
+ ...processing event 354000 of 3402287
+ ...processing event 355000 of 3402287
+355344 timeDiff = 0.00075393
+39 -99
+ ...processing event 356000 of 3402287
+ ...processing event 357000 of 3402287
+ ...processing event 358000 of 3402287
+ ...processing event 359000 of 3402287
+359776 timeDiff = 0.00144686
+28 -99
+Events in chn 28 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+ ...processing event 360000 of 3402287
+ ...processing event 361000 of 3402287
+ ...processing event 362000 of 3402287
+ ...processing event 363000 of 3402287
+ ...processing event 364000 of 3402287
+364190 timeDiff = 6.55199e-05
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 365000 of 3402287
+ ...processing event 366000 of 3402287
+ ...processing event 367000 of 3402287
+ ...processing event 368000 of 3402287
+ ...processing event 369000 of 3402287
+ ...processing event 370000 of 3402287
+ ...processing event 371000 of 3402287
+ ...processing event 372000 of 3402287
+ ...processing event 373000 of 3402287
+373088 timeDiff = 0.00124778
+37 -99
+373280 timeDiff = 0.000890904
+23 -99
+Events in chn 23 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+373987 timeDiff = 0.000898964
+16 -99
+Events in chn 16 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 374000 of 3402287
+ ...processing event 375000 of 3402287
+ ...processing event 376000 of 3402287
+ ...processing event 377000 of 3402287
+ ...processing event 378000 of 3402287
+ ...processing event 379000 of 3402287
+ ...processing event 380000 of 3402287
+ ...processing event 381000 of 3402287
+ ...processing event 382000 of 3402287
+ ...processing event 383000 of 3402287
+ ...processing event 384000 of 3402287
+ ...processing event 385000 of 3402287
+ ...processing event 386000 of 3402287
+ ...processing event 387000 of 3402287
+ ...processing event 388000 of 3402287
+ ...processing event 389000 of 3402287
+ ...processing event 390000 of 3402287
+390342 timeDiff = 0.000920084
+26 -99
+Events in chn 26 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 391000 of 3402287
+ ...processing event 392000 of 3402287
+ ...processing event 393000 of 3402287
+ ...processing event 394000 of 3402287
+ ...processing event 395000 of 3402287
+ ...processing event 396000 of 3402287
+ ...processing event 397000 of 3402287
+ ...processing event 398000 of 3402287
+398191 timeDiff = 0.000560423
+7 -99
+ ...processing event 399000 of 3402287
+ ...processing event 400000 of 3402287
+ ...processing event 401000 of 3402287
+ ...processing event 402000 of 3402287
+ ...processing event 403000 of 3402287
+ ...processing event 404000 of 3402287
+ ...processing event 405000 of 3402287
+ ...processing event 406000 of 3402287
+ ...processing event 407000 of 3402287
+ ...processing event 408000 of 3402287
+ ...processing event 409000 of 3402287
+ ...processing event 410000 of 3402287
+ ...processing event 411000 of 3402287
+ ...processing event 412000 of 3402287
+ ...processing event 413000 of 3402287
+ ...processing event 414000 of 3402287
+ ...processing event 415000 of 3402287
+ ...processing event 416000 of 3402287
+ ...processing event 417000 of 3402287
+ ...processing event 418000 of 3402287
+ ...processing event 419000 of 3402287
+419090 timeDiff = 0.000621703
+29 -99
+Events in chn 29 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+ ...processing event 420000 of 3402287
+ ...processing event 421000 of 3402287
+ ...processing event 422000 of 3402287
+ ...processing event 423000 of 3402287
+ ...processing event 424000 of 3402287
+ ...processing event 425000 of 3402287
+ ...processing event 426000 of 3402287
+ ...processing event 427000 of 3402287
+ ...processing event 428000 of 3402287
+ ...processing event 429000 of 3402287
+ ...processing event 430000 of 3402287
+430347 timeDiff = 0.00100633
+12 -99
+Events in chn 12 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 431000 of 3402287
+ ...processing event 432000 of 3402287
+ ...processing event 433000 of 3402287
+ ...processing event 434000 of 3402287
+ ...processing event 435000 of 3402287
+ ...processing event 436000 of 3402287
+ ...processing event 437000 of 3402287
+ ...processing event 438000 of 3402287
+ ...processing event 439000 of 3402287
+ ...processing event 440000 of 3402287
+ ...processing event 441000 of 3402287
+ ...processing event 442000 of 3402287
+442351 timeDiff = 6.888e-05
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 443000 of 3402287
+ ...processing event 444000 of 3402287
+ ...processing event 445000 of 3402287
+ ...processing event 446000 of 3402287
+ ...processing event 447000 of 3402287
+ ...processing event 448000 of 3402287
+ ...processing event 449000 of 3402287
+449574 timeDiff = 0.0016009
+28 -99
+Events in chn 28 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+ ...processing event 450000 of 3402287
+ ...processing event 451000 of 3402287
+ ...processing event 452000 of 3402287
+452509 timeDiff = 0.000696084
+26 -99
+Events in chn 26 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+452536 timeDiff = 0.00102862
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 453000 of 3402287
+ ...processing event 454000 of 3402287
+ ...processing event 455000 of 3402287
+ ...processing event 456000 of 3402287
+ ...processing event 457000 of 3402287
+ ...processing event 458000 of 3402287
+ ...processing event 459000 of 3402287
+ ...processing event 460000 of 3402287
+ ...processing event 461000 of 3402287
+ ...processing event 462000 of 3402287
+ ...processing event 463000 of 3402287
+ ...processing event 464000 of 3402287
+464804 timeDiff = 0.00123479
+20 -99
+Events in chn 20 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 465000 of 3402287
+ ...processing event 466000 of 3402287
+ ...processing event 467000 of 3402287
+ ...processing event 468000 of 3402287
+ ...processing event 469000 of 3402287
+ ...processing event 470000 of 3402287
+ ...processing event 471000 of 3402287
+ ...processing event 472000 of 3402287
+ ...processing event 473000 of 3402287
+ ...processing event 474000 of 3402287
+ ...processing event 475000 of 3402287
+475744 timeDiff = 0.000832334
+22 -99
+Events in chn 22 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 476000 of 3402287
+ ...processing event 477000 of 3402287
+ ...processing event 478000 of 3402287
+ ...processing event 479000 of 3402287
+ ...processing event 480000 of 3402287
+ ...processing event 481000 of 3402287
+ ...processing event 482000 of 3402287
+ ...processing event 483000 of 3402287
+ ...processing event 484000 of 3402287
+ ...processing event 485000 of 3402287
+ ...processing event 486000 of 3402287
+ ...processing event 487000 of 3402287
+ ...processing event 488000 of 3402287
+ ...processing event 489000 of 3402287
+ ...processing event 490000 of 3402287
+ ...processing event 491000 of 3402287
+ ...processing event 492000 of 3402287
+ ...processing event 493000 of 3402287
+ ...processing event 494000 of 3402287
+ ...processing event 495000 of 3402287
+ ...processing event 496000 of 3402287
+ ...processing event 497000 of 3402287
+ ...processing event 498000 of 3402287
+ ...processing event 499000 of 3402287
+ ...processing event 500000 of 3402287
+500809 timeDiff = 0.00131683
+29 -99
+Events in chn 29 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+500908 timeDiff = 0.00155333
+20 -99
+Events in chn 20 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 501000 of 3402287
+ ...processing event 502000 of 3402287
+ ...processing event 503000 of 3402287
+ ...processing event 504000 of 3402287
+ ...processing event 505000 of 3402287
+ ...processing event 506000 of 3402287
+ ...processing event 507000 of 3402287
+ ...processing event 508000 of 3402287
+ ...processing event 509000 of 3402287
+509261 timeDiff = 0.00117373
+26 -99
+Events in chn 26 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+509740 timeDiff = 0.000370772
+28 -99
+Events in chn 28 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+ ...processing event 510000 of 3402287
+ ...processing event 511000 of 3402287
+ ...processing event 512000 of 3402287
+ ...processing event 513000 of 3402287
+ ...processing event 514000 of 3402287
+ ...processing event 515000 of 3402287
+ ...processing event 516000 of 3402287
+ ...processing event 517000 of 3402287
+517686 timeDiff = 0.000854944
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 518000 of 3402287
+ ...processing event 519000 of 3402287
+ ...processing event 520000 of 3402287
+520280 timeDiff = 0.00110456
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 521000 of 3402287
+ ...processing event 522000 of 3402287
+ ...processing event 523000 of 3402287
+ ...processing event 524000 of 3402287
+ ...processing event 525000 of 3402287
+ ...processing event 526000 of 3402287
+ ...processing event 527000 of 3402287
+ ...processing event 528000 of 3402287
+528323 timeDiff = 0.000806474
+28 -99
+Events in chn 28 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+528676 timeDiff = 0.00128742
+9 -99
+Events in chn 9 and -99, in strings 2 and 0 -> NOT a BiPo EVENT
+ ...processing event 529000 of 3402287
+ ...processing event 530000 of 3402287
+ ...processing event 531000 of 3402287
+ ...processing event 532000 of 3402287
+ ...processing event 533000 of 3402287
+ ...processing event 534000 of 3402287
+ ...processing event 535000 of 3402287
+ ...processing event 536000 of 3402287
+ ...processing event 537000 of 3402287
+ ...processing event 538000 of 3402287
+ ...processing event 539000 of 3402287
+ ...processing event 540000 of 3402287
+540847 timeDiff = 0.000633634
+40 -99
+ ...processing event 541000 of 3402287
+ ...processing event 542000 of 3402287
+ ...processing event 543000 of 3402287
+ ...processing event 544000 of 3402287
+544349 timeDiff = 0.00118503
+11 -99
+Events in chn 11 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 545000 of 3402287
+ ...processing event 546000 of 3402287
+ ...processing event 547000 of 3402287
+547332 timeDiff = 0.000370562
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 548000 of 3402287
+ ...processing event 549000 of 3402287
+ ...processing event 550000 of 3402287
+ ...processing event 551000 of 3402287
+ ...processing event 552000 of 3402287
+ ...processing event 553000 of 3402287
+ ...processing event 554000 of 3402287
+ ...processing event 555000 of 3402287
+555917 timeDiff = 0.000314091
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 556000 of 3402287
+556905 timeDiff = 0.000600203
+10 -99
+Events in chn 10 and -99, in strings 2 and 0 -> NOT a BiPo EVENT
+ ...processing event 557000 of 3402287
+ ...processing event 558000 of 3402287
+ ...processing event 559000 of 3402287
+559513 timeDiff = 0.000257242
+24 -99
+Events in chn 24 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 560000 of 3402287
+ ...processing event 561000 of 3402287
+ ...processing event 562000 of 3402287
+ ...processing event 563000 of 3402287
+ ...processing event 564000 of 3402287
+ ...processing event 565000 of 3402287
+ ...processing event 566000 of 3402287
+ ...processing event 567000 of 3402287
+ ...processing event 568000 of 3402287
+ ...processing event 569000 of 3402287
+ ...processing event 570000 of 3402287
+ ...processing event 571000 of 3402287
+ ...processing event 572000 of 3402287
+ ...processing event 573000 of 3402287
+573013 timeDiff = 0.00049313
+38 -99
+ ...processing event 574000 of 3402287
+ ...processing event 575000 of 3402287
+ ...processing event 576000 of 3402287
+ ...processing event 577000 of 3402287
+ ...processing event 578000 of 3402287
+ ...processing event 579000 of 3402287
+ ...processing event 580000 of 3402287
+580239 timeDiff = 0.000724133
+6 -99
+ ...processing event 581000 of 3402287
+ ...processing event 582000 of 3402287
+ ...processing event 583000 of 3402287
+ ...processing event 584000 of 3402287
+ ...processing event 585000 of 3402287
+ ...processing event 586000 of 3402287
+ ...processing event 587000 of 3402287
+ ...processing event 588000 of 3402287
+ ...processing event 589000 of 3402287
+ ...processing event 590000 of 3402287
+ ...processing event 591000 of 3402287
+ ...processing event 592000 of 3402287
+ ...processing event 593000 of 3402287
+ ...processing event 594000 of 3402287
+ ...processing event 595000 of 3402287
+ ...processing event 596000 of 3402287
+ ...processing event 597000 of 3402287
+ ...processing event 598000 of 3402287
+ ...processing event 599000 of 3402287
+ ...processing event 600000 of 3402287
+ ...processing event 601000 of 3402287
+ ...processing event 602000 of 3402287
+602795 timeDiff = 0.000624903
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 603000 of 3402287
+ ...processing event 604000 of 3402287
+ ...processing event 605000 of 3402287
+ ...processing event 606000 of 3402287
+ ...processing event 607000 of 3402287
+ ...processing event 608000 of 3402287
+ ...processing event 609000 of 3402287
+ ...processing event 610000 of 3402287
+ ...processing event 611000 of 3402287
+ ...processing event 612000 of 3402287
+612079 timeDiff = 0.001256
+2 -99
+ ...processing event 613000 of 3402287
+ ...processing event 614000 of 3402287
+ ...processing event 615000 of 3402287
+ ...processing event 616000 of 3402287
+ ...processing event 617000 of 3402287
+617282 timeDiff = 0.000931875
+33 -99
+Events in chn 33 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 618000 of 3402287
+618302 timeDiff = 0.000315581
+6 -99
+ ...processing event 619000 of 3402287
+619724 timeDiff = 0.00124846
+24 -99
+Events in chn 24 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 620000 of 3402287
+ ...processing event 621000 of 3402287
+ ...processing event 622000 of 3402287
+ ...processing event 623000 of 3402287
+ ...processing event 624000 of 3402287
+624239 timeDiff = 0.000943215
+7 -99
+ ...processing event 625000 of 3402287
+ ...processing event 626000 of 3402287
+ ...processing event 627000 of 3402287
+ ...processing event 628000 of 3402287
+ ...processing event 629000 of 3402287
+ ...processing event 630000 of 3402287
+ ...processing event 631000 of 3402287
+ ...processing event 632000 of 3402287
+ ...processing event 633000 of 3402287
+ ...processing event 634000 of 3402287
+634321 timeDiff = 0.000600214
+40 -99
+ ...processing event 635000 of 3402287
+ ...processing event 636000 of 3402287
+ ...processing event 637000 of 3402287
+ ...processing event 638000 of 3402287
+ ...processing event 639000 of 3402287
+ ...processing event 640000 of 3402287
+ ...processing event 641000 of 3402287
+ ...processing event 642000 of 3402287
+ ...processing event 643000 of 3402287
+ ...processing event 644000 of 3402287
+ ...processing event 645000 of 3402287
+ ...processing event 646000 of 3402287
+ ...processing event 647000 of 3402287
+ ...processing event 648000 of 3402287
+ ...processing event 649000 of 3402287
+649997 timeDiff = 0.00137263
+20 -99
+Events in chn 20 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 650000 of 3402287
+ ...processing event 651000 of 3402287
+ ...processing event 652000 of 3402287
+ ...processing event 653000 of 3402287
+ ...processing event 654000 of 3402287
+ ...processing event 655000 of 3402287
+655232 timeDiff = 0.000988295
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+655232 timeDiff = 0.001128
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+655232 timeDiff = 0.00118962
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+655233 timeDiff = 0.000139701
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+655233 timeDiff = 0.000201321
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 656000 of 3402287
+ ...processing event 657000 of 3402287
+ ...processing event 658000 of 3402287
+ ...processing event 659000 of 3402287
+ ...processing event 660000 of 3402287
+660513 timeDiff = 6.267e-05
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+660513 timeDiff = 0.000115571
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+660513 timeDiff = 0.000492362
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+660513 timeDiff = 0.000545123
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 661000 of 3402287
+ ...processing event 662000 of 3402287
+ ...processing event 663000 of 3402287
+ ...processing event 664000 of 3402287
+ ...processing event 665000 of 3402287
+ ...processing event 666000 of 3402287
+ ...processing event 667000 of 3402287
+ ...processing event 668000 of 3402287
+ ...processing event 669000 of 3402287
+ ...processing event 670000 of 3402287
+ ...processing event 671000 of 3402287
+ ...processing event 672000 of 3402287
+672930 timeDiff = 0.00146585
+29 -99
+Events in chn 29 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+ ...processing event 673000 of 3402287
+ ...processing event 674000 of 3402287
+ ...processing event 675000 of 3402287
+ ...processing event 676000 of 3402287
+ ...processing event 677000 of 3402287
+ ...processing event 678000 of 3402287
+ ...processing event 679000 of 3402287
+ ...processing event 680000 of 3402287
+ ...processing event 681000 of 3402287
+ ...processing event 682000 of 3402287
+682047 timeDiff = 5.3911e-05
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 683000 of 3402287
+ ...processing event 684000 of 3402287
+ ...processing event 685000 of 3402287
+ ...processing event 686000 of 3402287
+ ...processing event 687000 of 3402287
+ ...processing event 688000 of 3402287
+688827 timeDiff = 0.00150458
+30 -99
+Events in chn 30 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 689000 of 3402287
+ ...processing event 690000 of 3402287
+690168 timeDiff = 0.000252331
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+690168 timeDiff = 0.000305971
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+690168 timeDiff = 0.000368471
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+690168 timeDiff = 0.000996195
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+690168 timeDiff = 0.00118986
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+690168 timeDiff = 0.0012464
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+690169 timeDiff = 5.364e-05
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+690169 timeDiff = 0.00011614
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+690169 timeDiff = 0.000743864
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+690169 timeDiff = 0.000937525
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+690169 timeDiff = 0.000994065
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+690172 timeDiff = 0.000193661
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+690172 timeDiff = 0.000250201
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+690173 timeDiff = 5.654e-05
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 691000 of 3402287
+ ...processing event 692000 of 3402287
+692823 timeDiff = 0.00137967
+7 -99
+ ...processing event 693000 of 3402287
+ ...processing event 694000 of 3402287
+ ...processing event 695000 of 3402287
+ ...processing event 696000 of 3402287
+ ...processing event 697000 of 3402287
+697867 timeDiff = 0.00122092
+15 -99
+Events in chn 15 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 698000 of 3402287
+ ...processing event 699000 of 3402287
+ ...processing event 700000 of 3402287
+700126 timeDiff = 0.00013032
+33 -99
+Events in chn 33 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 701000 of 3402287
+ ...processing event 702000 of 3402287
+ ...processing event 703000 of 3402287
+ ...processing event 704000 of 3402287
+ ...processing event 705000 of 3402287
+ ...processing event 706000 of 3402287
+ ...processing event 707000 of 3402287
+ ...processing event 708000 of 3402287
+ ...processing event 709000 of 3402287
+ ...processing event 710000 of 3402287
+ ...processing event 711000 of 3402287
+ ...processing event 712000 of 3402287
+712298 timeDiff = 5.157e-05
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+712298 timeDiff = 0.00010264
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 713000 of 3402287
+ ...processing event 714000 of 3402287
+ ...processing event 715000 of 3402287
+ ...processing event 716000 of 3402287
+ ...processing event 717000 of 3402287
+ ...processing event 718000 of 3402287
+ ...processing event 719000 of 3402287
+ ...processing event 720000 of 3402287
+ ...processing event 721000 of 3402287
+ ...processing event 722000 of 3402287
+ ...processing event 723000 of 3402287
+ ...processing event 724000 of 3402287
+ ...processing event 725000 of 3402287
+ ...processing event 726000 of 3402287
+ ...processing event 727000 of 3402287
+ ...processing event 728000 of 3402287
+ ...processing event 729000 of 3402287
+ ...processing event 730000 of 3402287
+ ...processing event 731000 of 3402287
+ ...processing event 732000 of 3402287
+ ...processing event 733000 of 3402287
+ ...processing event 734000 of 3402287
+ ...processing event 735000 of 3402287
+ ...processing event 736000 of 3402287
+ ...processing event 737000 of 3402287
+737436 timeDiff = 0.000479023
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 738000 of 3402287
+ ...processing event 739000 of 3402287
+ ...processing event 740000 of 3402287
+ ...processing event 741000 of 3402287
+ ...processing event 742000 of 3402287
+ ...processing event 743000 of 3402287
+ ...processing event 744000 of 3402287
+ ...processing event 745000 of 3402287
+745995 timeDiff = 0.000454883
+4 -99
+ ...processing event 746000 of 3402287
+746031 timeDiff = 5.135e-05
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+746031 timeDiff = 0.000102101
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+746031 timeDiff = 0.000154551
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+746031 timeDiff = 0.000211261
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 747000 of 3402287
+ ...processing event 748000 of 3402287
+ ...processing event 749000 of 3402287
+749842 timeDiff = 0.000933911
+38 -99
+ ...processing event 750000 of 3402287
+ ...processing event 751000 of 3402287
+751718 timeDiff = 5.594e-05
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+751718 timeDiff = 0.000333081
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+751718 timeDiff = 0.000333081
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+751718 timeDiff = 0.000383722
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+751718 timeDiff = 0.000434512
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+751718 timeDiff = 0.000484832
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+751720 timeDiff = 0
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+751720 timeDiff = 5.06409e-05
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+751720 timeDiff = 0.000101431
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+751720 timeDiff = 0.000151751
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 752000 of 3402287
+ ...processing event 753000 of 3402287
+ ...processing event 754000 of 3402287
+ ...processing event 755000 of 3402287
+ ...processing event 756000 of 3402287
+ ...processing event 757000 of 3402287
+ ...processing event 758000 of 3402287
+ ...processing event 759000 of 3402287
+ ...processing event 760000 of 3402287
+ ...processing event 761000 of 3402287
+ ...processing event 762000 of 3402287
+ ...processing event 763000 of 3402287
+ ...processing event 764000 of 3402287
+ ...processing event 765000 of 3402287
+ ...processing event 766000 of 3402287
+ ...processing event 767000 of 3402287
+ ...processing event 768000 of 3402287
+ ...processing event 769000 of 3402287
+ ...processing event 770000 of 3402287
+ ...processing event 771000 of 3402287
+ ...processing event 772000 of 3402287
+ ...processing event 773000 of 3402287
+ ...processing event 774000 of 3402287
+ ...processing event 775000 of 3402287
+ ...processing event 776000 of 3402287
+ ...processing event 777000 of 3402287
+ ...processing event 778000 of 3402287
+ ...processing event 779000 of 3402287
+ ...processing event 780000 of 3402287
+ ...processing event 781000 of 3402287
+ ...processing event 782000 of 3402287
+ ...processing event 783000 of 3402287
+ ...processing event 784000 of 3402287
+ ...processing event 785000 of 3402287
+ ...processing event 786000 of 3402287
+ ...processing event 787000 of 3402287
+ ...processing event 788000 of 3402287
+ ...processing event 789000 of 3402287
+789966 timeDiff = 0.000430062
+BiPo Event of type I in ch 27
+multiplicity = 1 1 energy = 54.078 7456.21, failedFlag2 = 0 isLarVetoed1 = 0 isLarVetoed2 = 0 timeDiff = 0.000430062
+PSD flags event 789966 and 789967:
+1 1
+1 1
+1 1
+1 1
+0 0
+0 0
+ ...processing event 790000 of 3402287
+ ...processing event 791000 of 3402287
+ ...processing event 792000 of 3402287
+ ...processing event 793000 of 3402287
+ ...processing event 794000 of 3402287
+ ...processing event 795000 of 3402287
+ ...processing event 796000 of 3402287
+ ...processing event 797000 of 3402287
+ ...processing event 798000 of 3402287
+ ...processing event 799000 of 3402287
+ ...processing event 800000 of 3402287
+ ...processing event 801000 of 3402287
+ ...processing event 802000 of 3402287
+ ...processing event 803000 of 3402287
+ ...processing event 804000 of 3402287
+ ...processing event 805000 of 3402287
+ ...processing event 806000 of 3402287
+ ...processing event 807000 of 3402287
+ ...processing event 808000 of 3402287
+ ...processing event 809000 of 3402287
+ ...processing event 810000 of 3402287
+ ...processing event 811000 of 3402287
+ ...processing event 812000 of 3402287
+ ...processing event 813000 of 3402287
+ ...processing event 814000 of 3402287
+ ...processing event 815000 of 3402287
+ ...processing event 816000 of 3402287
+ ...processing event 817000 of 3402287
+ ...processing event 818000 of 3402287
+ ...processing event 819000 of 3402287
+ ...processing event 820000 of 3402287
+ ...processing event 821000 of 3402287
+ ...processing event 822000 of 3402287
+ ...processing event 823000 of 3402287
+ ...processing event 824000 of 3402287
+ ...processing event 825000 of 3402287
+ ...processing event 826000 of 3402287
+ ...processing event 827000 of 3402287
+ ...processing event 828000 of 3402287
+828215 timeDiff = 0.000564473
+10 -99
+Events in chn 10 and -99, in strings 2 and 0 -> NOT a BiPo EVENT
+ ...processing event 829000 of 3402287
+ ...processing event 830000 of 3402287
+ ...processing event 831000 of 3402287
+ ...processing event 832000 of 3402287
+ ...processing event 833000 of 3402287
+ ...processing event 834000 of 3402287
+ ...processing event 835000 of 3402287
+835156 timeDiff = 0.000410202
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 836000 of 3402287
+ ...processing event 837000 of 3402287
+ ...processing event 838000 of 3402287
+ ...processing event 839000 of 3402287
+839657 timeDiff = 0.00133181
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+839657 timeDiff = 0.00139222
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 840000 of 3402287
+ ...processing event 841000 of 3402287
+ ...processing event 842000 of 3402287
+ ...processing event 843000 of 3402287
+ ...processing event 844000 of 3402287
+ ...processing event 845000 of 3402287
+ ...processing event 846000 of 3402287
+ ...processing event 847000 of 3402287
+ ...processing event 848000 of 3402287
+ ...processing event 849000 of 3402287
+ ...processing event 850000 of 3402287
+ ...processing event 851000 of 3402287
+ ...processing event 852000 of 3402287
+ ...processing event 853000 of 3402287
+ ...processing event 854000 of 3402287
+ ...processing event 855000 of 3402287
+ ...processing event 856000 of 3402287
+ ...processing event 857000 of 3402287
+ ...processing event 858000 of 3402287
+ ...processing event 859000 of 3402287
+ ...processing event 860000 of 3402287
+ ...processing event 861000 of 3402287
+ ...processing event 862000 of 3402287
+ ...processing event 863000 of 3402287
+863422 timeDiff = 0.000417782
+39 -99
+ ...processing event 864000 of 3402287
+ ...processing event 865000 of 3402287
+865962 timeDiff = 0.000563853
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 866000 of 3402287
+ ...processing event 867000 of 3402287
+867788 timeDiff = 0.000239942
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+867788 timeDiff = 0.000376622
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 868000 of 3402287
+ ...processing event 869000 of 3402287
+869964 timeDiff = 0.00012004
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+869964 timeDiff = 0.000665713
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+869964 timeDiff = 0.00104898
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 870000 of 3402287
+ ...processing event 871000 of 3402287
+871614 timeDiff = 0.000109501
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+871614 timeDiff = 0.000204761
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+871628 timeDiff = 0.000678884
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+871628 timeDiff = 0.00114105
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+871628 timeDiff = 0.00140474
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+871628 timeDiff = 0.00147229
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+871629 timeDiff = 0.000462162
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+871629 timeDiff = 0.000725853
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+871629 timeDiff = 0.000793404
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+871630 timeDiff = 0.000263691
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+871630 timeDiff = 0.000331242
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+871658 timeDiff = 7.989e-05
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 872000 of 3402287
+ ...processing event 873000 of 3402287
+ ...processing event 874000 of 3402287
+ ...processing event 875000 of 3402287
+ ...processing event 876000 of 3402287
+ ...processing event 877000 of 3402287
+ ...processing event 878000 of 3402287
+ ...processing event 879000 of 3402287
+ ...processing event 880000 of 3402287
+ ...processing event 881000 of 3402287
+ ...processing event 882000 of 3402287
+ ...processing event 883000 of 3402287
+ ...processing event 884000 of 3402287
+ ...processing event 885000 of 3402287
+ ...processing event 886000 of 3402287
+ ...processing event 887000 of 3402287
+ ...processing event 888000 of 3402287
+ ...processing event 889000 of 3402287
+ ...processing event 890000 of 3402287
+ ...processing event 891000 of 3402287
+ ...processing event 892000 of 3402287
+ ...processing event 893000 of 3402287
+ ...processing event 894000 of 3402287
+ ...processing event 895000 of 3402287
+ ...processing event 896000 of 3402287
+ ...processing event 897000 of 3402287
+ ...processing event 898000 of 3402287
+ ...processing event 899000 of 3402287
+ ...processing event 900000 of 3402287
+ ...processing event 901000 of 3402287
+ ...processing event 902000 of 3402287
+ ...processing event 903000 of 3402287
+ ...processing event 904000 of 3402287
+ ...processing event 905000 of 3402287
+ ...processing event 906000 of 3402287
+ ...processing event 907000 of 3402287
+ ...processing event 908000 of 3402287
+ ...processing event 909000 of 3402287
+ ...processing event 910000 of 3402287
+ ...processing event 911000 of 3402287
+ ...processing event 912000 of 3402287
+912174 timeDiff = 0.000115711
+40 -99
+ ...processing event 913000 of 3402287
+ ...processing event 914000 of 3402287
+ ...processing event 915000 of 3402287
+ ...processing event 916000 of 3402287
+ ...processing event 917000 of 3402287
+ ...processing event 918000 of 3402287
+ ...processing event 919000 of 3402287
+ ...processing event 920000 of 3402287
+ ...processing event 921000 of 3402287
+ ...processing event 922000 of 3402287
+ ...processing event 923000 of 3402287
+ ...processing event 924000 of 3402287
+ ...processing event 925000 of 3402287
+ ...processing event 926000 of 3402287
+ ...processing event 927000 of 3402287
+ ...processing event 928000 of 3402287
+ ...processing event 929000 of 3402287
+ ...processing event 930000 of 3402287
+930449 timeDiff = 0.000460613
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+930705 timeDiff = 0.000865224
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+930705 timeDiff = 0.000921484
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 931000 of 3402287
+ ...processing event 932000 of 3402287
+932068 timeDiff = 0.000831264
+40 -99
+ ...processing event 933000 of 3402287
+ ...processing event 934000 of 3402287
+ ...processing event 935000 of 3402287
+ ...processing event 936000 of 3402287
+ ...processing event 937000 of 3402287
+ ...processing event 938000 of 3402287
+ ...processing event 939000 of 3402287
+ ...processing event 940000 of 3402287
+ ...processing event 941000 of 3402287
+ ...processing event 942000 of 3402287
+ ...processing event 943000 of 3402287
+ ...processing event 944000 of 3402287
+ ...processing event 945000 of 3402287
+ ...processing event 946000 of 3402287
+ ...processing event 947000 of 3402287
+ ...processing event 948000 of 3402287
+ ...processing event 949000 of 3402287
+949918 timeDiff = 0.00157273
+16 -99
+Events in chn 16 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 950000 of 3402287
+ ...processing event 951000 of 3402287
+ ...processing event 952000 of 3402287
+952912 timeDiff = 0.000360372
+39 -99
+952912 timeDiff = 0.000415692
+39 -99
+ ...processing event 953000 of 3402287
+ ...processing event 954000 of 3402287
+ ...processing event 955000 of 3402287
+ ...processing event 956000 of 3402287
+ ...processing event 957000 of 3402287
+ ...processing event 958000 of 3402287
+ ...processing event 959000 of 3402287
+959345 timeDiff = 0.000884865
+15 -99
+Events in chn 15 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 960000 of 3402287
+960077 timeDiff = 0.00131767
+17 -99
+Events in chn 17 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+960079 timeDiff = 0.000845664
+37 -99
+960079 timeDiff = 0.00104664
+37 -99
+960079 timeDiff = 0.00117463
+37 -99
+960218 timeDiff = 0.000984325
+24 -99
+Events in chn 24 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+960218 timeDiff = 0.00103521
+24 -99
+Events in chn 24 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 961000 of 3402287
+ ...processing event 962000 of 3402287
+ ...processing event 963000 of 3402287
+ ...processing event 964000 of 3402287
+ ...processing event 965000 of 3402287
+ ...processing event 966000 of 3402287
+ ...processing event 967000 of 3402287
+ ...processing event 968000 of 3402287
+ ...processing event 969000 of 3402287
+ ...processing event 970000 of 3402287
+ ...processing event 971000 of 3402287
+ ...processing event 972000 of 3402287
+ ...processing event 973000 of 3402287
+ ...processing event 974000 of 3402287
+ ...processing event 975000 of 3402287
+975175 timeDiff = -3.88576
+12 -99
+Events in chn 12 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+975377 timeDiff = -2.03015
+27 -99
+Events in chn 27 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+975377 timeDiff = -2.0301
+27 -99
+Events in chn 27 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+975377 timeDiff = -2.03004
+27 -99
+Events in chn 27 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+975377 timeDiff = -2.56063
+27 -99
+Events in chn 27 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+975835 timeDiff = -2.79792
+39 -99
+975835 timeDiff = -1.63219
+39 -99
+975939 timeDiff = 0.000842854
+23 -99
+Events in chn 23 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+975939 timeDiff = 0.000905844
+23 -99
+Events in chn 23 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 976000 of 3402287
+976084 timeDiff = -3.13914
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+976087 timeDiff = -3.63545
+40 -99
+976308 timeDiff = -0.855574
+35 -99
+Events in chn 35 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+976308 timeDiff = -0.855522
+35 -99
+Events in chn 35 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+976308 timeDiff = -0.855472
+35 -99
+Events in chn 35 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+976544 timeDiff = -2.20941
+16 -99
+Events in chn 16 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+976544 timeDiff = -1.30594
+16 -99
+Events in chn 16 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+976544 timeDiff = -1.07098
+16 0
+Events in chn 16 and 0, in strings 3 and 1 -> NOT a BiPo EVENT
+976544 timeDiff = -3.08351
+16 0
+Events in chn 16 and 0, in strings 3 and 1 -> NOT a BiPo EVENT
+976544 timeDiff = -3.08334
+16 0
+Events in chn 16 and 0, in strings 3 and 1 -> NOT a BiPo EVENT
+976547 timeDiff = -2.01253
+0 -99
+976547 timeDiff = -2.01236
+0 -99
+976808 timeDiff = -0.5395
+12 -99
+Events in chn 12 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+976808 timeDiff = -1.41306
+12 -99
+Events in chn 12 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+976809 timeDiff = -0.873565
+10 -99
+Events in chn 10 and -99, in strings 2 and 0 -> NOT a BiPo EVENT
+ ...processing event 977000 of 3402287
+977032 timeDiff = -0.0814563
+28 -99
+Events in chn 28 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+977032 timeDiff = -1.58521
+28 -99
+Events in chn 28 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+977032 timeDiff = -0.178114
+28 -99
+Events in chn 28 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+977851 timeDiff = 0.00135108
+1 -99
+ ...processing event 978000 of 3402287
+978844 timeDiff = 0.000849094
+27 -99
+Events in chn 27 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+978844 timeDiff = 0.000900544
+27 -99
+Events in chn 27 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+978844 timeDiff = 0.000951465
+27 -99
+Events in chn 27 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+ ...processing event 979000 of 3402287
+ ...processing event 980000 of 3402287
+ ...processing event 981000 of 3402287
+ ...processing event 982000 of 3402287
+ ...processing event 983000 of 3402287
+ ...processing event 984000 of 3402287
+ ...processing event 985000 of 3402287
+ ...processing event 986000 of 3402287
+ ...processing event 987000 of 3402287
+ ...processing event 988000 of 3402287
+ ...processing event 989000 of 3402287
+ ...processing event 990000 of 3402287
+990009 timeDiff = 0.00131292
+39 -99
+ ...processing event 991000 of 3402287
+ ...processing event 992000 of 3402287
+ ...processing event 993000 of 3402287
+ ...processing event 994000 of 3402287
+ ...processing event 995000 of 3402287
+ ...processing event 996000 of 3402287
+ ...processing event 997000 of 3402287
+ ...processing event 998000 of 3402287
+ ...processing event 999000 of 3402287
+ ...processing event 1000000 of 3402287
+ ...processing event 1001000 of 3402287
+ ...processing event 1002000 of 3402287
+1002374 timeDiff = 0.000316461
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002374 timeDiff = 0.000442672
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002374 timeDiff = 0.000603613
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002374 timeDiff = 0.000704963
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002374 timeDiff = 0.000776474
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002374 timeDiff = 0.000830804
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002374 timeDiff = 0.00110684
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002374 timeDiff = 0.00119826
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002383 timeDiff = 0.000145041
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002426 timeDiff = 6.281e-05
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002426 timeDiff = 0.000219561
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002426 timeDiff = 0.000294851
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002434 timeDiff = 0.000134831
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002434 timeDiff = 0.000366212
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002434 timeDiff = 0.000459372
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002434 timeDiff = 0.000517923
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002434 timeDiff = 0.000599133
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002434 timeDiff = 0.000814504
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002434 timeDiff = 0.000867124
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002434 timeDiff = 0.000959675
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002457 timeDiff = 0.000408172
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002457 timeDiff = 0.00106995
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002466 timeDiff = 0.00011785
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002466 timeDiff = 0.000212911
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002466 timeDiff = 0.000303021
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002466 timeDiff = 0.000492052
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002466 timeDiff = 0.000568723
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002466 timeDiff = 0.000629603
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002480 timeDiff = 0.000163981
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002480 timeDiff = 0.000235782
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002480 timeDiff = 0.000298652
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002480 timeDiff = 0.000394382
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002480 timeDiff = 0.000636034
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002480 timeDiff = 0.000858505
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002480 timeDiff = 0.000919775
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002491 timeDiff = 0.00010987
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002502 timeDiff = 0.000443602
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002534 timeDiff = 0.000238951
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002534 timeDiff = 0.000328981
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002534 timeDiff = 0.000459642
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002534 timeDiff = 0.000553913
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002534 timeDiff = 0.000641043
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002534 timeDiff = 0.000789264
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002534 timeDiff = 0.000842744
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002534 timeDiff = 0.00107272
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002534 timeDiff = 0.00116323
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002534 timeDiff = 0.00124084
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002534 timeDiff = 0.00139607
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002534 timeDiff = 0.0015359
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002542 timeDiff = 9.0501e-05
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002542 timeDiff = 0.000168111
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002542 timeDiff = 0.000323342
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002542 timeDiff = 0.000463173
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002580 timeDiff = 0.000411192
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002582 timeDiff = 0.000280651
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002584 timeDiff = 0.000326471
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002584 timeDiff = 0.000457292
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002584 timeDiff = 0.000609703
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002584 timeDiff = 0.000814884
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002584 timeDiff = 0.000963885
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002584 timeDiff = 0.0010279
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002610 timeDiff = 0.000410922
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002733 timeDiff = 0.000408142
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002733 timeDiff = 0.000675613
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002828 timeDiff = 0.000285221
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002828 timeDiff = 0.000727674
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002828 timeDiff = 0.000929375
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002828 timeDiff = 0.00101361
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002840 timeDiff = 0.000474142
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002891 timeDiff = 9.551e-05
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1002891 timeDiff = 0.000187131
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 1003000 of 3402287
+1003041 timeDiff = 7.916e-05
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003048 timeDiff = 0.000205261
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003048 timeDiff = 0.000310031
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003048 timeDiff = 0.000417912
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003048 timeDiff = 0.000493782
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003048 timeDiff = 0.000556153
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003048 timeDiff = 0.000664403
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003048 timeDiff = 0.000718833
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003048 timeDiff = 0.000801794
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003048 timeDiff = 0.000917424
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003048 timeDiff = 0.00121153
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003073 timeDiff = 8.204e-05
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003073 timeDiff = 0.000219751
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003073 timeDiff = 0.000292841
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003073 timeDiff = 0.000372321
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003091 timeDiff = 0.0001117
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003116 timeDiff = 0.000293222
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003116 timeDiff = 0.000369642
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003116 timeDiff = 0.000993765
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003116 timeDiff = 0.00112906
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003116 timeDiff = 0.00146222
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003116 timeDiff = 0.00153054
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003119 timeDiff = 0.000135291
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003119 timeDiff = 0.000468453
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003119 timeDiff = 0.000536773
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003131 timeDiff = 0.000181831
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003131 timeDiff = 0.000328312
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003131 timeDiff = 0.000787534
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003136 timeDiff = 8.02299e-05
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003136 timeDiff = 0.000332811
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003136 timeDiff = 0.000430462
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003136 timeDiff = 0.000816474
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003136 timeDiff = 0.000966505
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003136 timeDiff = 0.00104822
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003136 timeDiff = 0.0011673
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003136 timeDiff = 0.00136585
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003136 timeDiff = 0.00149617
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003171 timeDiff = 9.478e-05
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003171 timeDiff = 0.00015451
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003171 timeDiff = 0.000278421
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003171 timeDiff = 0.000362422
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003171 timeDiff = 0.000662933
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003171 timeDiff = 0.000748393
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003171 timeDiff = 0.00115729
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003171 timeDiff = 0.00140766
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003171 timeDiff = 0.00149537
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003171 timeDiff = 0.00155655
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003187 timeDiff = 0.000239731
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003187 timeDiff = 0.000409682
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003187 timeDiff = 0.000543373
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003187 timeDiff = 0.000899204
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003187 timeDiff = 0.00129559
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003281 timeDiff = 0.000294442
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003296 timeDiff = 0.000111671
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003296 timeDiff = 0.000191361
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003309 timeDiff = 0.000762164
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1003309 timeDiff = 0.000933565
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 1004000 of 3402287
+ ...processing event 1005000 of 3402287
+ ...processing event 1006000 of 3402287
+ ...processing event 1007000 of 3402287
+ ...processing event 1008000 of 3402287
+ ...processing event 1009000 of 3402287
+ ...processing event 1010000 of 3402287
+ ...processing event 1011000 of 3402287
+ ...processing event 1012000 of 3402287
+ ...processing event 1013000 of 3402287
+ ...processing event 1014000 of 3402287
+ ...processing event 1015000 of 3402287
+ ...processing event 1016000 of 3402287
+ ...processing event 1017000 of 3402287
+ ...processing event 1018000 of 3402287
+ ...processing event 1019000 of 3402287
+ ...processing event 1020000 of 3402287
+ ...processing event 1021000 of 3402287
+ ...processing event 1022000 of 3402287
+ ...processing event 1023000 of 3402287
+1023428 timeDiff = 0.000428092
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1023428 timeDiff = 0.000746264
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1023428 timeDiff = 0.000796994
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 1024000 of 3402287
+ ...processing event 1025000 of 3402287
+ ...processing event 1026000 of 3402287
+ ...processing event 1027000 of 3402287
+ ...processing event 1028000 of 3402287
+1028235 timeDiff = 0.00015961
+38 -99
+ ...processing event 1029000 of 3402287
+ ...processing event 1030000 of 3402287
+ ...processing event 1031000 of 3402287
+ ...processing event 1032000 of 3402287
+ ...processing event 1033000 of 3402287
+ ...processing event 1034000 of 3402287
+ ...processing event 1035000 of 3402287
+ ...processing event 1036000 of 3402287
+ ...processing event 1037000 of 3402287
+ ...processing event 1038000 of 3402287
+ ...processing event 1039000 of 3402287
+1039457 timeDiff = 0.00158545
+28 -99
+Events in chn 28 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+ ...processing event 1040000 of 3402287
+ ...processing event 1041000 of 3402287
+ ...processing event 1042000 of 3402287
+ ...processing event 1043000 of 3402287
+ ...processing event 1044000 of 3402287
+ ...processing event 1045000 of 3402287
+1045054 timeDiff = 0.000182341
+39 -99
+ ...processing event 1046000 of 3402287
+ ...processing event 1047000 of 3402287
+ ...processing event 1048000 of 3402287
+1048660 timeDiff = 0.00100789
+31 -99
+Events in chn 31 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 1049000 of 3402287
+ ...processing event 1050000 of 3402287
+ ...processing event 1051000 of 3402287
+ ...processing event 1052000 of 3402287
+ ...processing event 1053000 of 3402287
+ ...processing event 1054000 of 3402287
+1054354 timeDiff = 0.00111556
+37 -99
+ ...processing event 1055000 of 3402287
+ ...processing event 1056000 of 3402287
+1056040 timeDiff = 0.000576093
+21 -99
+Events in chn 21 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 1057000 of 3402287
+ ...processing event 1058000 of 3402287
+ ...processing event 1059000 of 3402287
+ ...processing event 1060000 of 3402287
+ ...processing event 1061000 of 3402287
+ ...processing event 1062000 of 3402287
+ ...processing event 1063000 of 3402287
+1063948 timeDiff = 0.000717064
+9 -99
+Events in chn 9 and -99, in strings 2 and 0 -> NOT a BiPo EVENT
+1063948 timeDiff = 0.000774794
+9 -99
+Events in chn 9 and -99, in strings 2 and 0 -> NOT a BiPo EVENT
+1063948 timeDiff = 0.000838295
+9 -99
+Events in chn 9 and -99, in strings 2 and 0 -> NOT a BiPo EVENT
+ ...processing event 1064000 of 3402287
+ ...processing event 1065000 of 3402287
+ ...processing event 1066000 of 3402287
+ ...processing event 1067000 of 3402287
+ ...processing event 1068000 of 3402287
+ ...processing event 1069000 of 3402287
+ ...processing event 1070000 of 3402287
+ ...processing event 1071000 of 3402287
+ ...processing event 1072000 of 3402287
+ ...processing event 1073000 of 3402287
+ ...processing event 1074000 of 3402287
+ ...processing event 1075000 of 3402287
+1075566 timeDiff = 0.000352862
+17 -99
+Events in chn 17 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 1076000 of 3402287
+1076240 timeDiff = 0.000306211
+38 -99
+ ...processing event 1077000 of 3402287
+ ...processing event 1078000 of 3402287
+ ...processing event 1079000 of 3402287
+ ...processing event 1080000 of 3402287
+ ...processing event 1081000 of 3402287
+ ...processing event 1082000 of 3402287
+ ...processing event 1083000 of 3402287
+ ...processing event 1084000 of 3402287
+ ...processing event 1085000 of 3402287
+ ...processing event 1086000 of 3402287
+ ...processing event 1087000 of 3402287
+ ...processing event 1088000 of 3402287
+ ...processing event 1089000 of 3402287
+ ...processing event 1090000 of 3402287
+ ...processing event 1091000 of 3402287
+ ...processing event 1092000 of 3402287
+ ...processing event 1093000 of 3402287
+ ...processing event 1094000 of 3402287
+ ...processing event 1095000 of 3402287
+ ...processing event 1096000 of 3402287
+ ...processing event 1097000 of 3402287
+ ...processing event 1098000 of 3402287
+ ...processing event 1099000 of 3402287
+ ...processing event 1100000 of 3402287
+ ...processing event 1101000 of 3402287
+ ...processing event 1102000 of 3402287
+ ...processing event 1103000 of 3402287
+ ...processing event 1104000 of 3402287
+ ...processing event 1105000 of 3402287
+ ...processing event 1106000 of 3402287
+ ...processing event 1107000 of 3402287
+ ...processing event 1108000 of 3402287
+ ...processing event 1109000 of 3402287
+ ...processing event 1110000 of 3402287
+ ...processing event 1111000 of 3402287
+ ...processing event 1112000 of 3402287
+1112533 timeDiff = 0.000496992
+20 -99
+Events in chn 20 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 1113000 of 3402287
+ ...processing event 1114000 of 3402287
+ ...processing event 1115000 of 3402287
+ ...processing event 1116000 of 3402287
+ ...processing event 1117000 of 3402287
+1117520 timeDiff = 0.000501882
+20 -99
+Events in chn 20 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+1117520 timeDiff = 0.000554783
+20 -99
+Events in chn 20 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+1117520 timeDiff = 0.000605583
+20 -99
+Events in chn 20 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+1117520 timeDiff = 0.000656643
+20 -99
+Events in chn 20 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 1118000 of 3402287
+ ...processing event 1119000 of 3402287
+ ...processing event 1120000 of 3402287
+ ...processing event 1121000 of 3402287
+ ...processing event 1122000 of 3402287
+ ...processing event 1123000 of 3402287
+ ...processing event 1124000 of 3402287
+ ...processing event 1125000 of 3402287
+1125586 timeDiff = 0.00125203
+40 -99
+ ...processing event 1126000 of 3402287
+ ...processing event 1127000 of 3402287
+ ...processing event 1128000 of 3402287
+ ...processing event 1129000 of 3402287
+ ...processing event 1130000 of 3402287
+ ...processing event 1131000 of 3402287
+ ...processing event 1132000 of 3402287
+ ...processing event 1133000 of 3402287
+ ...processing event 1134000 of 3402287
+ ...processing event 1135000 of 3402287
+ ...processing event 1136000 of 3402287
+ ...processing event 1137000 of 3402287
+ ...processing event 1138000 of 3402287
+ ...processing event 1139000 of 3402287
+ ...processing event 1140000 of 3402287
+ ...processing event 1141000 of 3402287
+1141646 timeDiff = 0.000532802
+34 -99
+Events in chn 34 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 1142000 of 3402287
+ ...processing event 1143000 of 3402287
+ ...processing event 1144000 of 3402287
+ ...processing event 1145000 of 3402287
+ ...processing event 1146000 of 3402287
+ ...processing event 1147000 of 3402287
+ ...processing event 1148000 of 3402287
+ ...processing event 1149000 of 3402287
+ ...processing event 1150000 of 3402287
+ ...processing event 1151000 of 3402287
+ ...processing event 1152000 of 3402287
+ ...processing event 1153000 of 3402287
+ ...processing event 1154000 of 3402287
+ ...processing event 1155000 of 3402287
+ ...processing event 1156000 of 3402287
+ ...processing event 1157000 of 3402287
+ ...processing event 1158000 of 3402287
+ ...processing event 1159000 of 3402287
+1159005 timeDiff = 0.00133264
+2 -99
+ ...processing event 1160000 of 3402287
+ ...processing event 1161000 of 3402287
+ ...processing event 1162000 of 3402287
+ ...processing event 1163000 of 3402287
+ ...processing event 1164000 of 3402287
+ ...processing event 1165000 of 3402287
+ ...processing event 1166000 of 3402287
+ ...processing event 1167000 of 3402287
+1167726 timeDiff = 0.000144401
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 1168000 of 3402287
+ ...processing event 1169000 of 3402287
+ ...processing event 1170000 of 3402287
+ ...processing event 1171000 of 3402287
+ ...processing event 1172000 of 3402287
+ ...processing event 1173000 of 3402287
+ ...processing event 1174000 of 3402287
+ ...processing event 1175000 of 3402287
+ ...processing event 1176000 of 3402287
+1176650 timeDiff = 0.000173021
+39 -99
+1176650 timeDiff = 0.000352682
+39 -99
+1176651 timeDiff = 0.000179661
+39 -99
+ ...processing event 1177000 of 3402287
+ ...processing event 1178000 of 3402287
+1178759 timeDiff = 0.00156657
+27 -99
+Events in chn 27 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+ ...processing event 1179000 of 3402287
+ ...processing event 1180000 of 3402287
+ ...processing event 1181000 of 3402287
+ ...processing event 1182000 of 3402287
+ ...processing event 1183000 of 3402287
+ ...processing event 1184000 of 3402287
+ ...processing event 1185000 of 3402287
+ ...processing event 1186000 of 3402287
+1186194 timeDiff = 0.00125752
+6 29
+Events in chn 6 and 29, in strings 1 and 5 -> NOT a BiPo EVENT
+1186376 timeDiff = 0.00155182
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 1187000 of 3402287
+ ...processing event 1188000 of 3402287
+ ...processing event 1189000 of 3402287
+1189658 timeDiff = 0.000199741
+39 -99
+1189658 timeDiff = 0.000293491
+39 -99
+1189659 timeDiff = 9.37501e-05
+39 -99
+ ...processing event 1190000 of 3402287
+ ...processing event 1191000 of 3402287
+ ...processing event 1192000 of 3402287
+1192502 timeDiff = 0.000199041
+14 -99
+Events in chn 14 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 1193000 of 3402287
+1193768 timeDiff = 0.00103989
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 1194000 of 3402287
+ ...processing event 1195000 of 3402287
+1195356 timeDiff = 0.000959905
+38 -99
+ ...processing event 1196000 of 3402287
+ ...processing event 1197000 of 3402287
+ ...processing event 1198000 of 3402287
+ ...processing event 1199000 of 3402287
+ ...processing event 1200000 of 3402287
+ ...processing event 1201000 of 3402287
+ ...processing event 1202000 of 3402287
+ ...processing event 1203000 of 3402287
+ ...processing event 1204000 of 3402287
+ ...processing event 1205000 of 3402287
+ ...processing event 1206000 of 3402287
+ ...processing event 1207000 of 3402287
+ ...processing event 1208000 of 3402287
+ ...processing event 1209000 of 3402287
+ ...processing event 1210000 of 3402287
+ ...processing event 1211000 of 3402287
+ ...processing event 1212000 of 3402287
+ ...processing event 1213000 of 3402287
+ ...processing event 1214000 of 3402287
+ ...processing event 1215000 of 3402287
+ ...processing event 1216000 of 3402287
+ ...processing event 1217000 of 3402287
+ ...processing event 1218000 of 3402287
+1218615 timeDiff = 0.00106152
+15 -99
+Events in chn 15 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 1219000 of 3402287
+ ...processing event 1220000 of 3402287
+ ...processing event 1221000 of 3402287
+ ...processing event 1222000 of 3402287
+ ...processing event 1223000 of 3402287
+ ...processing event 1224000 of 3402287
+ ...processing event 1225000 of 3402287
+ ...processing event 1226000 of 3402287
+ ...processing event 1227000 of 3402287
+ ...processing event 1228000 of 3402287
+1228656 timeDiff = 8.87701e-05
+35 -99
+Events in chn 35 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 1229000 of 3402287
+ ...processing event 1230000 of 3402287
+1230790 timeDiff = 0.000108691
+39 -99
+ ...processing event 1231000 of 3402287
+ ...processing event 1232000 of 3402287
+ ...processing event 1233000 of 3402287
+ ...processing event 1234000 of 3402287
+ ...processing event 1235000 of 3402287
+ ...processing event 1236000 of 3402287
+1236685 timeDiff = 0.000410642
+27 -99
+Events in chn 27 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+ ...processing event 1237000 of 3402287
+ ...processing event 1238000 of 3402287
+ ...processing event 1239000 of 3402287
+ ...processing event 1240000 of 3402287
+ ...processing event 1241000 of 3402287
+ ...processing event 1242000 of 3402287
+ ...processing event 1243000 of 3402287
+1243723 timeDiff = 0.00147473
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 1244000 of 3402287
+ ...processing event 1245000 of 3402287
+ ...processing event 1246000 of 3402287
+ ...processing event 1247000 of 3402287
+ ...processing event 1248000 of 3402287
+ ...processing event 1249000 of 3402287
+ ...processing event 1250000 of 3402287
+1250130 timeDiff = 0.00109574
+20 -99
+Events in chn 20 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 1251000 of 3402287
+ ...processing event 1252000 of 3402287
+1252544 timeDiff = 0.000979545
+1 -99
+ ...processing event 1253000 of 3402287
+ ...processing event 1254000 of 3402287
+1254942 timeDiff = 0.000302251
+40 -99
+1254942 timeDiff = 0.000353522
+40 -99
+1254942 timeDiff = 0.000404652
+40 -99
+1254942 timeDiff = 0.000689673
+40 -99
+1254942 timeDiff = 0.000746874
+40 -99
+ ...processing event 1255000 of 3402287
+ ...processing event 1256000 of 3402287
+ ...processing event 1257000 of 3402287
+ ...processing event 1258000 of 3402287
+ ...processing event 1259000 of 3402287
+ ...processing event 1260000 of 3402287
+ ...processing event 1261000 of 3402287
+ ...processing event 1262000 of 3402287
+ ...processing event 1263000 of 3402287
+ ...processing event 1264000 of 3402287
+1264987 timeDiff = 0.000743163
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 1265000 of 3402287
+1265917 timeDiff = 0.00134364
+39 -99
+ ...processing event 1266000 of 3402287
+ ...processing event 1267000 of 3402287
+ ...processing event 1268000 of 3402287
+1268325 timeDiff = 0.000862934
+28 -99
+Events in chn 28 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+1268325 timeDiff = 0.00100266
+28 -99
+Events in chn 28 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+1268325 timeDiff = 0.00144863
+28 -99
+Events in chn 28 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+1268325 timeDiff = 0.00159683
+28 -99
+Events in chn 28 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+ ...processing event 1269000 of 3402287
+ ...processing event 1270000 of 3402287
+ ...processing event 1271000 of 3402287
+ ...processing event 1272000 of 3402287
+ ...processing event 1273000 of 3402287
+ ...processing event 1274000 of 3402287
+ ...processing event 1275000 of 3402287
+ ...processing event 1276000 of 3402287
+ ...processing event 1277000 of 3402287
+ ...processing event 1278000 of 3402287
+1278334 timeDiff = 0.00161548
+39 -99
+ ...processing event 1279000 of 3402287
+1279690 timeDiff = 0.000726154
+39 -99
+ ...processing event 1280000 of 3402287
+1280974 timeDiff = 0.00153424
+5 -99
+ ...processing event 1281000 of 3402287
+ ...processing event 1282000 of 3402287
+ ...processing event 1283000 of 3402287
+ ...processing event 1284000 of 3402287
+ ...processing event 1285000 of 3402287
+ ...processing event 1286000 of 3402287
+ ...processing event 1287000 of 3402287
+ ...processing event 1288000 of 3402287
+ ...processing event 1289000 of 3402287
+ ...processing event 1290000 of 3402287
+ ...processing event 1291000 of 3402287
+ ...processing event 1292000 of 3402287
+1292737 timeDiff = 0.00149654
+14 -99
+Events in chn 14 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1292737 timeDiff = 0.00154665
+14 -99
+Events in chn 14 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 1293000 of 3402287
+ ...processing event 1294000 of 3402287
+ ...processing event 1295000 of 3402287
+1295383 timeDiff = 0.000129861
+15 -99
+Events in chn 15 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 1296000 of 3402287
+ ...processing event 1297000 of 3402287
+ ...processing event 1298000 of 3402287
+ ...processing event 1299000 of 3402287
+ ...processing event 1300000 of 3402287
+ ...processing event 1301000 of 3402287
+ ...processing event 1302000 of 3402287
+ ...processing event 1303000 of 3402287
+ ...processing event 1304000 of 3402287
+ ...processing event 1305000 of 3402287
+ ...processing event 1306000 of 3402287
+ ...processing event 1307000 of 3402287
+ ...processing event 1308000 of 3402287
+ ...processing event 1309000 of 3402287
+ ...processing event 1310000 of 3402287
+ ...processing event 1311000 of 3402287
+ ...processing event 1312000 of 3402287
+ ...processing event 1313000 of 3402287
+ ...processing event 1314000 of 3402287
+ ...processing event 1315000 of 3402287
+ ...processing event 1316000 of 3402287
+ ...processing event 1317000 of 3402287
+ ...processing event 1318000 of 3402287
+ ...processing event 1319000 of 3402287
+ ...processing event 1320000 of 3402287
+1320942 timeDiff = 0.000174881
+39 -99
+ ...processing event 1321000 of 3402287
+ ...processing event 1322000 of 3402287
+ ...processing event 1323000 of 3402287
+ ...processing event 1324000 of 3402287
+ ...processing event 1325000 of 3402287
+ ...processing event 1326000 of 3402287
+ ...processing event 1327000 of 3402287
+ ...processing event 1328000 of 3402287
+ ...processing event 1329000 of 3402287
+ ...processing event 1330000 of 3402287
+ ...processing event 1331000 of 3402287
+1331932 timeDiff = 0.00011611
+39 -99
+ ...processing event 1332000 of 3402287
+ ...processing event 1333000 of 3402287
+ ...processing event 1334000 of 3402287
+ ...processing event 1335000 of 3402287
+ ...processing event 1336000 of 3402287
+ ...processing event 1337000 of 3402287
+ ...processing event 1338000 of 3402287
+ ...processing event 1339000 of 3402287
+ ...processing event 1340000 of 3402287
+ ...processing event 1341000 of 3402287
+ ...processing event 1342000 of 3402287
+ ...processing event 1343000 of 3402287
+1343564 timeDiff = 0.001133
+28 -99
+Events in chn 28 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+ ...processing event 1344000 of 3402287
+1344253 timeDiff = 0.000474883
+38 -99
+ ...processing event 1345000 of 3402287
+1345570 timeDiff = 0.00159997
+10 -99
+Events in chn 10 and -99, in strings 2 and 0 -> NOT a BiPo EVENT
+ ...processing event 1346000 of 3402287
+1346854 timeDiff = 0.000447802
+39 -99
+1346854 timeDiff = 0.000763294
+39 -99
+1346854 timeDiff = 0.000852064
+39 -99
+1346854 timeDiff = 0.000911474
+39 -99
+1346854 timeDiff = 0.00106057
+39 -99
+1346854 timeDiff = 0.00162931
+39 -99
+1346856 timeDiff = 8.87701e-05
+39 -99
+1346856 timeDiff = 0.00014818
+39 -99
+1346856 timeDiff = 0.000297271
+39 -99
+1346856 timeDiff = 0.000866014
+39 -99
+1346856 timeDiff = 0.00158163
+39 -99
+ ...processing event 1347000 of 3402287
+ ...processing event 1348000 of 3402287
+ ...processing event 1349000 of 3402287
+ ...processing event 1350000 of 3402287
+ ...processing event 1351000 of 3402287
+ ...processing event 1352000 of 3402287
+ ...processing event 1353000 of 3402287
+ ...processing event 1354000 of 3402287
+ ...processing event 1355000 of 3402287
+ ...processing event 1356000 of 3402287
+ ...processing event 1357000 of 3402287
+ ...processing event 1358000 of 3402287
+ ...processing event 1359000 of 3402287
+1359473 timeDiff = 0.000925235
+7 -99
+ ...processing event 1360000 of 3402287
+ ...processing event 1361000 of 3402287
+ ...processing event 1362000 of 3402287
+ ...processing event 1363000 of 3402287
+ ...processing event 1364000 of 3402287
+ ...processing event 1365000 of 3402287
+ ...processing event 1366000 of 3402287
+ ...processing event 1367000 of 3402287
+ ...processing event 1368000 of 3402287
+ ...processing event 1369000 of 3402287
+ ...processing event 1370000 of 3402287
+ ...processing event 1371000 of 3402287
+ ...processing event 1372000 of 3402287
+ ...processing event 1373000 of 3402287
+1373570 timeDiff = 0.00148263
+5 -99
+1373570 timeDiff = 0.00153366
+5 -99
+1373570 timeDiff = 0.0015853
+5 -99
+ ...processing event 1374000 of 3402287
+ ...processing event 1375000 of 3402287
+ ...processing event 1376000 of 3402287
+ ...processing event 1377000 of 3402287
+1377237 timeDiff = 0.00123802
+10 -99
+Events in chn 10 and -99, in strings 2 and 0 -> NOT a BiPo EVENT
+ ...processing event 1378000 of 3402287
+ ...processing event 1379000 of 3402287
+ ...processing event 1380000 of 3402287
+ ...processing event 1381000 of 3402287
+ ...processing event 1382000 of 3402287
+1382708 timeDiff = 0.000646334
+39 -99
+ ...processing event 1383000 of 3402287
+ ...processing event 1384000 of 3402287
+ ...processing event 1385000 of 3402287
+ ...processing event 1386000 of 3402287
+ ...processing event 1387000 of 3402287
+ ...processing event 1388000 of 3402287
+ ...processing event 1389000 of 3402287
+ ...processing event 1390000 of 3402287
+ ...processing event 1391000 of 3402287
+1391127 timeDiff = 0.000299301
+BiPo Event of type I in ch 24
+multiplicity = 1 1 energy = 58.1203 446.345, failedFlag2 = 0 isLarVetoed1 = 0 isLarVetoed2 = 1 timeDiff = 0.000299301
+PSD flags event 1391127 and 1391128:
+0 0
+0 0
+1 1
+0 1
+-0.444892 6.34743
+0 1
+ ...processing event 1392000 of 3402287
+ ...processing event 1393000 of 3402287
+ ...processing event 1394000 of 3402287
+ ...processing event 1395000 of 3402287
+1395676 timeDiff = 0.000922715
+4 -99
+ ...processing event 1396000 of 3402287
+ ...processing event 1397000 of 3402287
+ ...processing event 1398000 of 3402287
+ ...processing event 1399000 of 3402287
+ ...processing event 1400000 of 3402287
+ ...processing event 1401000 of 3402287
+ ...processing event 1402000 of 3402287
+ ...processing event 1403000 of 3402287
+ ...processing event 1404000 of 3402287
+ ...processing event 1405000 of 3402287
+ ...processing event 1406000 of 3402287
+ ...processing event 1407000 of 3402287
+ ...processing event 1408000 of 3402287
+ ...processing event 1409000 of 3402287
+ ...processing event 1410000 of 3402287
+ ...processing event 1411000 of 3402287
+ ...processing event 1412000 of 3402287
+ ...processing event 1413000 of 3402287
+ ...processing event 1414000 of 3402287
+1414642 timeDiff = 0.000414412
+28 -99
+Events in chn 28 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+1414642 timeDiff = 0.000466162
+28 -99
+Events in chn 28 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+ ...processing event 1415000 of 3402287
+ ...processing event 1416000 of 3402287
+ ...processing event 1417000 of 3402287
+ ...processing event 1418000 of 3402287
+ ...processing event 1419000 of 3402287
+ ...processing event 1420000 of 3402287
+ ...processing event 1421000 of 3402287
+ ...processing event 1422000 of 3402287
+ ...processing event 1423000 of 3402287
+ ...processing event 1424000 of 3402287
+ ...processing event 1425000 of 3402287
+ ...processing event 1426000 of 3402287
+ ...processing event 1427000 of 3402287
+ ...processing event 1428000 of 3402287
+1428370 timeDiff = 0.00013216
+39 -99
+ ...processing event 1429000 of 3402287
+ ...processing event 1430000 of 3402287
+ ...processing event 1431000 of 3402287
+ ...processing event 1432000 of 3402287
+ ...processing event 1433000 of 3402287
+ ...processing event 1434000 of 3402287
+ ...processing event 1435000 of 3402287
+ ...processing event 1436000 of 3402287
+ ...processing event 1437000 of 3402287
+1437034 timeDiff = 0.000109771
+39 -99
+ ...processing event 1438000 of 3402287
+1438466 timeDiff = 0.000314541
+39 -99
+1438466 timeDiff = 0.000379442
+39 -99
+1438466 timeDiff = 0.000457232
+39 -99
+1438466 timeDiff = 0.000534732
+39 -99
+1438466 timeDiff = 0.000619303
+39 -99
+ ...processing event 1439000 of 3402287
+ ...processing event 1440000 of 3402287
+ ...processing event 1441000 of 3402287
+1441358 timeDiff = 0.00145232
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1441358 timeDiff = 0.00150308
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1441358 timeDiff = 0.0015541
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 1442000 of 3402287
+ ...processing event 1443000 of 3402287
+ ...processing event 1444000 of 3402287
+ ...processing event 1445000 of 3402287
+ ...processing event 1446000 of 3402287
+ ...processing event 1447000 of 3402287
+ ...processing event 1448000 of 3402287
+ ...processing event 1449000 of 3402287
+ ...processing event 1450000 of 3402287
+ ...processing event 1451000 of 3402287
+ ...processing event 1452000 of 3402287
+1452822 timeDiff = 0.000228021
+39 -99
+ ...processing event 1453000 of 3402287
+ ...processing event 1454000 of 3402287
+ ...processing event 1455000 of 3402287
+ ...processing event 1456000 of 3402287
+ ...processing event 1457000 of 3402287
+ ...processing event 1458000 of 3402287
+ ...processing event 1459000 of 3402287
+ ...processing event 1460000 of 3402287
+ ...processing event 1461000 of 3402287
+ ...processing event 1462000 of 3402287
+ ...processing event 1463000 of 3402287
+ ...processing event 1464000 of 3402287
+ ...processing event 1465000 of 3402287
+ ...processing event 1466000 of 3402287
+ ...processing event 1467000 of 3402287
+ ...processing event 1468000 of 3402287
+ ...processing event 1469000 of 3402287
+ ...processing event 1470000 of 3402287
+ ...processing event 1471000 of 3402287
+ ...processing event 1472000 of 3402287
+ ...processing event 1473000 of 3402287
+1473768 timeDiff = 0.00125542
+11 -99
+Events in chn 11 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1473768 timeDiff = 0.00158644
+11 -99
+Events in chn 11 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+1473768 timeDiff = 0.00163784
+11 -99
+Events in chn 11 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 1474000 of 3402287
+1474715 timeDiff = 8.61711e-05
+29 -99
+Events in chn 29 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+ ...processing event 1475000 of 3402287
+ ...processing event 1476000 of 3402287
+ ...processing event 1477000 of 3402287
+1477609 timeDiff = 0.000977603
+22 -99
+Events in chn 22 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 1478000 of 3402287
+ ...processing event 1479000 of 3402287
+ ...processing event 1480000 of 3402287
+ ...processing event 1481000 of 3402287
+ ...processing event 1482000 of 3402287
+1482159 timeDiff = 0.000620173
+2 -99
+ ...processing event 1483000 of 3402287
+ ...processing event 1484000 of 3402287
+ ...processing event 1485000 of 3402287
+ ...processing event 1486000 of 3402287
+ ...processing event 1487000 of 3402287
+ ...processing event 1488000 of 3402287
+ ...processing event 1489000 of 3402287
+ ...processing event 1490000 of 3402287
+ ...processing event 1491000 of 3402287
+ ...processing event 1492000 of 3402287
+ ...processing event 1493000 of 3402287
+ ...processing event 1494000 of 3402287
+ ...processing event 1495000 of 3402287
+ ...processing event 1496000 of 3402287
+1496465 timeDiff = 0.000421002
+22 -99
+Events in chn 22 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 1497000 of 3402287
+ ...processing event 1498000 of 3402287
+ ...processing event 1499000 of 3402287
+ ...processing event 1500000 of 3402287
+ ...processing event 1501000 of 3402287
+ ...processing event 1502000 of 3402287
+ ...processing event 1503000 of 3402287
+ ...processing event 1504000 of 3402287
+ ...processing event 1505000 of 3402287
+ ...processing event 1506000 of 3402287
+ ...processing event 1507000 of 3402287
+ ...processing event 1508000 of 3402287
+ ...processing event 1509000 of 3402287
+ ...processing event 1510000 of 3402287
+ ...processing event 1511000 of 3402287
+ ...processing event 1512000 of 3402287
+ ...processing event 1513000 of 3402287
+ ...processing event 1514000 of 3402287
+ ...processing event 1515000 of 3402287
+ ...processing event 1516000 of 3402287
+1516738 timeDiff = 0.00012054
+39 -99
+ ...processing event 1517000 of 3402287
+ ...processing event 1518000 of 3402287
+ ...processing event 1519000 of 3402287
+ ...processing event 1520000 of 3402287
+ ...processing event 1521000 of 3402287
+ ...processing event 1522000 of 3402287
+ ...processing event 1523000 of 3402287
+ ...processing event 1524000 of 3402287
+ ...processing event 1525000 of 3402287
+ ...processing event 1526000 of 3402287
+ ...processing event 1527000 of 3402287
+ ...processing event 1528000 of 3402287
+ ...processing event 1529000 of 3402287
+ ...processing event 1530000 of 3402287
+ ...processing event 1531000 of 3402287
+ ...processing event 1532000 of 3402287
+ ...processing event 1533000 of 3402287
+ ...processing event 1534000 of 3402287
+ ...processing event 1535000 of 3402287
+ ...processing event 1536000 of 3402287
+ ...processing event 1537000 of 3402287
+ ...processing event 1538000 of 3402287
+ ...processing event 1539000 of 3402287
+ ...processing event 1540000 of 3402287
+ ...processing event 1541000 of 3402287
+ ...processing event 1542000 of 3402287
+ ...processing event 1543000 of 3402287
+ ...processing event 1544000 of 3402287
+ ...processing event 1545000 of 3402287
+ ...processing event 1546000 of 3402287
+ ...processing event 1547000 of 3402287
+ ...processing event 1548000 of 3402287
+1548976 timeDiff = 0.0014776
+38 -99
+ ...processing event 1549000 of 3402287
+1549048 timeDiff = 0.000653153
+17 -99
+Events in chn 17 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 1550000 of 3402287
+ ...processing event 1551000 of 3402287
+ ...processing event 1552000 of 3402287
+ ...processing event 1553000 of 3402287
+ ...processing event 1554000 of 3402287
+ ...processing event 1555000 of 3402287
+ ...processing event 1556000 of 3402287
+ ...processing event 1557000 of 3402287
+ ...processing event 1558000 of 3402287
+ ...processing event 1559000 of 3402287
+ ...processing event 1560000 of 3402287
+ ...processing event 1561000 of 3402287
+ ...processing event 1562000 of 3402287
+ ...processing event 1563000 of 3402287
+ ...processing event 1564000 of 3402287
+ ...processing event 1565000 of 3402287
+ ...processing event 1566000 of 3402287
+ ...processing event 1567000 of 3402287
+ ...processing event 1568000 of 3402287
+1568403 timeDiff = 0.00149428
+10 -99
+Events in chn 10 and -99, in strings 2 and 0 -> NOT a BiPo EVENT
+ ...processing event 1569000 of 3402287
+ ...processing event 1570000 of 3402287
+ ...processing event 1571000 of 3402287
+ ...processing event 1572000 of 3402287
+ ...processing event 1573000 of 3402287
+ ...processing event 1574000 of 3402287
+ ...processing event 1575000 of 3402287
+ ...processing event 1576000 of 3402287
+ ...processing event 1577000 of 3402287
+ ...processing event 1578000 of 3402287
+ ...processing event 1579000 of 3402287
+ ...processing event 1580000 of 3402287
+ ...processing event 1581000 of 3402287
+ ...processing event 1582000 of 3402287
+ ...processing event 1583000 of 3402287
+ ...processing event 1584000 of 3402287
+ ...processing event 1585000 of 3402287
+ ...processing event 1586000 of 3402287
+ ...processing event 1587000 of 3402287
+ ...processing event 1588000 of 3402287
+ ...processing event 1589000 of 3402287
+ ...processing event 1590000 of 3402287
+ ...processing event 1591000 of 3402287
+ ...processing event 1592000 of 3402287
+ ...processing event 1593000 of 3402287
+ ...processing event 1594000 of 3402287
+ ...processing event 1595000 of 3402287
+ ...processing event 1596000 of 3402287
+ ...processing event 1597000 of 3402287
+1597624 timeDiff = 0.000833405
+39 -99
+ ...processing event 1598000 of 3402287
+ ...processing event 1599000 of 3402287
+1599276 timeDiff = 8.93499e-05
+24 -99
+Events in chn 24 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 1600000 of 3402287
+ ...processing event 1601000 of 3402287
+ ...processing event 1602000 of 3402287
+ ...processing event 1603000 of 3402287
+ ...processing event 1604000 of 3402287
+ ...processing event 1605000 of 3402287
+ ...processing event 1606000 of 3402287
+ ...processing event 1607000 of 3402287
+ ...processing event 1608000 of 3402287
+ ...processing event 1609000 of 3402287
+1609535 timeDiff = 0.000213301
+10 -99
+Events in chn 10 and -99, in strings 2 and 0 -> NOT a BiPo EVENT
+ ...processing event 1610000 of 3402287
+ ...processing event 1611000 of 3402287
+1611226 timeDiff = 0.000186071
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+1611228 timeDiff = 0.000803494
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+1611228 timeDiff = 0.000980005
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+1611228 timeDiff = 0.00162392
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 1612000 of 3402287
+ ...processing event 1613000 of 3402287
+ ...processing event 1614000 of 3402287
+1614798 timeDiff = 0.000161831
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+1614798 timeDiff = 0.000761564
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+1614798 timeDiff = 0.000825104
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+1614816 timeDiff = 8.05709e-05
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+1614816 timeDiff = 0.000267052
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 1615000 of 3402287
+1615114 timeDiff = 0.000141021
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+1615192 timeDiff = 0.00103978
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+1615361 timeDiff = 0.00159274
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+1615362 timeDiff = 6.747e-05
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+1615853 timeDiff = 0.00108501
+27 37
+Events in strings 5 and 7 with near detectors
+27 37 multiplicity = 1 1 energy = 65.5031 1110.23, failedFlag2 = 0 isLarVetoed1 = 1 isLarVetoed2 = 0 timeDiff = 0.00108501
+ ...processing event 1616000 of 3402287
+ ...processing event 1617000 of 3402287
+ ...processing event 1618000 of 3402287
+ ...processing event 1619000 of 3402287
+1619702 timeDiff = 0.000454472
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+1619912 timeDiff = 0.00163554
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 1620000 of 3402287
+1620157 timeDiff = 0.000987885
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 1621000 of 3402287
+1621147 timeDiff = 0.000673674
+39 -99
+ ...processing event 1622000 of 3402287
+ ...processing event 1623000 of 3402287
+ ...processing event 1624000 of 3402287
+ ...processing event 1625000 of 3402287
+ ...processing event 1626000 of 3402287
+ ...processing event 1627000 of 3402287
+ ...processing event 1628000 of 3402287
+ ...processing event 1629000 of 3402287
+ ...processing event 1630000 of 3402287
+ ...processing event 1631000 of 3402287
+ ...processing event 1632000 of 3402287
+ ...processing event 1633000 of 3402287
+ ...processing event 1634000 of 3402287
+ ...processing event 1635000 of 3402287
+ ...processing event 1636000 of 3402287
+ ...processing event 1637000 of 3402287
+ ...processing event 1638000 of 3402287
+ ...processing event 1639000 of 3402287
+ ...processing event 1640000 of 3402287
+ ...processing event 1641000 of 3402287
+ ...processing event 1642000 of 3402287
+1642123 timeDiff = 0.000823614
+12 -99
+Events in chn 12 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 1643000 of 3402287
+ ...processing event 1644000 of 3402287
+ ...processing event 1645000 of 3402287
+ ...processing event 1646000 of 3402287
+ ...processing event 1647000 of 3402287
+ ...processing event 1648000 of 3402287
+ ...processing event 1649000 of 3402287
+ ...processing event 1650000 of 3402287
+ ...processing event 1651000 of 3402287
+ ...processing event 1652000 of 3402287
+ ...processing event 1653000 of 3402287
+ ...processing event 1654000 of 3402287
+ ...processing event 1655000 of 3402287
+ ...processing event 1656000 of 3402287
+ ...processing event 1657000 of 3402287
+ ...processing event 1658000 of 3402287
+1658079 timeDiff = 0.000319572
+40 -99
+1658079 timeDiff = 0.000518713
+40 -99
+1658079 timeDiff = 0.000582663
+40 -99
+1658079 timeDiff = 0.000634863
+40 -99
+ ...processing event 1659000 of 3402287
+ ...processing event 1660000 of 3402287
+ ...processing event 1661000 of 3402287
+ ...processing event 1662000 of 3402287
+ ...processing event 1663000 of 3402287
+ ...processing event 1664000 of 3402287
+ ...processing event 1665000 of 3402287
+ ...processing event 1666000 of 3402287
+ ...processing event 1667000 of 3402287
+1667306 timeDiff = 0.000252622
+37 -99
+ ...processing event 1668000 of 3402287
+ ...processing event 1669000 of 3402287
+ ...processing event 1670000 of 3402287
+ ...processing event 1671000 of 3402287
+1671281 timeDiff = 9.30211e-05
+13 -99
+Events in chn 13 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 1672000 of 3402287
+ ...processing event 1673000 of 3402287
+ ...processing event 1674000 of 3402287
+ ...processing event 1675000 of 3402287
+ ...processing event 1676000 of 3402287
+ ...processing event 1677000 of 3402287
+ ...processing event 1678000 of 3402287
+ ...processing event 1679000 of 3402287
+ ...processing event 1680000 of 3402287
+ ...processing event 1681000 of 3402287
+1681248 timeDiff = 0.000608273
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 1682000 of 3402287
+ ...processing event 1683000 of 3402287
+ ...processing event 1684000 of 3402287
+ ...processing event 1685000 of 3402287
+ ...processing event 1686000 of 3402287
+ ...processing event 1687000 of 3402287
+ ...processing event 1688000 of 3402287
+ ...processing event 1689000 of 3402287
+ ...processing event 1690000 of 3402287
+ ...processing event 1691000 of 3402287
+ ...processing event 1692000 of 3402287
+ ...processing event 1693000 of 3402287
+ ...processing event 1694000 of 3402287
+ ...processing event 1695000 of 3402287
+ ...processing event 1696000 of 3402287
+ ...processing event 1697000 of 3402287
+ ...processing event 1698000 of 3402287
+ ...processing event 1699000 of 3402287
+ ...processing event 1700000 of 3402287
+1700036 timeDiff = 0.00155376
+40 -99
+ ...processing event 1701000 of 3402287
+ ...processing event 1702000 of 3402287
+ ...processing event 1703000 of 3402287
+ ...processing event 1704000 of 3402287
+ ...processing event 1705000 of 3402287
+ ...processing event 1706000 of 3402287
+1706189 timeDiff = 0.000405552
+33 -99
+Events in chn 33 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 1707000 of 3402287
+1707494 timeDiff = 0.000184401
+28 -99
+Events in chn 28 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+ ...processing event 1708000 of 3402287
+ ...processing event 1709000 of 3402287
+ ...processing event 1710000 of 3402287
+ ...processing event 1711000 of 3402287
+ ...processing event 1712000 of 3402287
+ ...processing event 1713000 of 3402287
+ ...processing event 1714000 of 3402287
+ ...processing event 1715000 of 3402287
+ ...processing event 1716000 of 3402287
+ ...processing event 1717000 of 3402287
+ ...processing event 1718000 of 3402287
+ ...processing event 1719000 of 3402287
+ ...processing event 1720000 of 3402287
+ ...processing event 1721000 of 3402287
+1721540 timeDiff = 0.000199881
+39 -99
+1721540 timeDiff = 0.00155526
+39 -99
+1721543 timeDiff = 0.000134121
+39 -99
+ ...processing event 1722000 of 3402287
+ ...processing event 1723000 of 3402287
+ ...processing event 1724000 of 3402287
+ ...processing event 1725000 of 3402287
+ ...processing event 1726000 of 3402287
+ ...processing event 1727000 of 3402287
+ ...processing event 1728000 of 3402287
+1728404 timeDiff = 0.00122187
+16 -99
+Events in chn 16 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 1729000 of 3402287
+ ...processing event 1730000 of 3402287
+ ...processing event 1731000 of 3402287
+ ...processing event 1732000 of 3402287
+ ...processing event 1733000 of 3402287
+ ...processing event 1734000 of 3402287
+ ...processing event 1735000 of 3402287
+ ...processing event 1736000 of 3402287
+ ...processing event 1737000 of 3402287
+ ...processing event 1738000 of 3402287
+1738997 timeDiff = 0.00161981
+2 -99
+ ...processing event 1739000 of 3402287
+ ...processing event 1740000 of 3402287
+ ...processing event 1741000 of 3402287
+ ...processing event 1742000 of 3402287
+ ...processing event 1743000 of 3402287
+ ...processing event 1744000 of 3402287
+ ...processing event 1745000 of 3402287
+ ...processing event 1746000 of 3402287
+ ...processing event 1747000 of 3402287
+ ...processing event 1748000 of 3402287
+1748308 timeDiff = 0.00143034
+9 -99
+Events in chn 9 and -99, in strings 2 and 0 -> NOT a BiPo EVENT
+ ...processing event 1749000 of 3402287
+1749181 timeDiff = 0.000454693
+38 -99
+ ...processing event 1750000 of 3402287
+ ...processing event 1751000 of 3402287
+ ...processing event 1752000 of 3402287
+ ...processing event 1753000 of 3402287
+ ...processing event 1754000 of 3402287
+ ...processing event 1755000 of 3402287
+ ...processing event 1756000 of 3402287
+ ...processing event 1757000 of 3402287
+ ...processing event 1758000 of 3402287
+ ...processing event 1759000 of 3402287
+ ...processing event 1760000 of 3402287
+ ...processing event 1761000 of 3402287
+ ...processing event 1762000 of 3402287
+ ...processing event 1763000 of 3402287
+ ...processing event 1764000 of 3402287
+ ...processing event 1765000 of 3402287
+ ...processing event 1766000 of 3402287
+ ...processing event 1767000 of 3402287
+ ...processing event 1768000 of 3402287
+ ...processing event 1769000 of 3402287
+ ...processing event 1770000 of 3402287
+ ...processing event 1771000 of 3402287
+ ...processing event 1772000 of 3402287
+ ...processing event 1773000 of 3402287
+ ...processing event 1774000 of 3402287
+ ...processing event 1775000 of 3402287
+ ...processing event 1776000 of 3402287
+ ...processing event 1777000 of 3402287
+ ...processing event 1778000 of 3402287
+ ...processing event 1779000 of 3402287
+ ...processing event 1780000 of 3402287
+1780549 timeDiff = 0.00153198
+4 -99
+ ...processing event 1781000 of 3402287
+ ...processing event 1782000 of 3402287
+ ...processing event 1783000 of 3402287
+ ...processing event 1784000 of 3402287
+1784470 timeDiff = 0.000941074
+40 -99
+ ...processing event 1785000 of 3402287
+ ...processing event 1786000 of 3402287
+ ...processing event 1787000 of 3402287
+1787871 timeDiff = 0.000332404
+10 -99
+Events in chn 10 and -99, in strings 2 and 0 -> NOT a BiPo EVENT
+ ...processing event 1788000 of 3402287
+ ...processing event 1789000 of 3402287
+1789166 timeDiff = 0.000844495
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 1790000 of 3402287
+ ...processing event 1791000 of 3402287
+ ...processing event 1792000 of 3402287
+ ...processing event 1793000 of 3402287
+ ...processing event 1794000 of 3402287
+ ...processing event 1795000 of 3402287
+ ...processing event 1796000 of 3402287
+ ...processing event 1797000 of 3402287
+ ...processing event 1798000 of 3402287
+ ...processing event 1799000 of 3402287
+ ...processing event 1800000 of 3402287
+ ...processing event 1801000 of 3402287
+ ...processing event 1802000 of 3402287
+ ...processing event 1803000 of 3402287
+ ...processing event 1804000 of 3402287
+ ...processing event 1805000 of 3402287
+ ...processing event 1806000 of 3402287
+ ...processing event 1807000 of 3402287
+ ...processing event 1808000 of 3402287
+ ...processing event 1809000 of 3402287
+ ...processing event 1810000 of 3402287
+ ...processing event 1811000 of 3402287
+ ...processing event 1812000 of 3402287
+ ...processing event 1813000 of 3402287
+ ...processing event 1814000 of 3402287
+ ...processing event 1815000 of 3402287
+ ...processing event 1816000 of 3402287
+ ...processing event 1817000 of 3402287
+ ...processing event 1818000 of 3402287
+ ...processing event 1819000 of 3402287
+ ...processing event 1820000 of 3402287
+ ...processing event 1821000 of 3402287
+ ...processing event 1822000 of 3402287
+ ...processing event 1823000 of 3402287
+ ...processing event 1824000 of 3402287
+ ...processing event 1825000 of 3402287
+ ...processing event 1826000 of 3402287
+ ...processing event 1827000 of 3402287
+ ...processing event 1828000 of 3402287
+ ...processing event 1829000 of 3402287
+ ...processing event 1830000 of 3402287
+ ...processing event 1831000 of 3402287
+ ...processing event 1832000 of 3402287
+ ...processing event 1833000 of 3402287
+ ...processing event 1834000 of 3402287
+ ...processing event 1835000 of 3402287
+ ...processing event 1836000 of 3402287
+ ...processing event 1837000 of 3402287
+ ...processing event 1838000 of 3402287
+ ...processing event 1839000 of 3402287
+ ...processing event 1840000 of 3402287
+ ...processing event 1841000 of 3402287
+ ...processing event 1842000 of 3402287
+ ...processing event 1843000 of 3402287
+ ...processing event 1844000 of 3402287
+ ...processing event 1845000 of 3402287
+ ...processing event 1846000 of 3402287
+ ...processing event 1847000 of 3402287
+ ...processing event 1848000 of 3402287
+ ...processing event 1849000 of 3402287
+ ...processing event 1850000 of 3402287
+ ...processing event 1851000 of 3402287
+ ...processing event 1852000 of 3402287
+1852554 timeDiff = 0.00137383
+37 -99
+ ...processing event 1853000 of 3402287
+ ...processing event 1854000 of 3402287
+ ...processing event 1855000 of 3402287
+ ...processing event 1856000 of 3402287
+ ...processing event 1857000 of 3402287
+ ...processing event 1858000 of 3402287
+ ...processing event 1859000 of 3402287
+ ...processing event 1860000 of 3402287
+ ...processing event 1861000 of 3402287
+ ...processing event 1862000 of 3402287
+ ...processing event 1863000 of 3402287
+ ...processing event 1864000 of 3402287
+ ...processing event 1865000 of 3402287
+ ...processing event 1866000 of 3402287
+ ...processing event 1867000 of 3402287
+ ...processing event 1868000 of 3402287
+ ...processing event 1869000 of 3402287
+ ...processing event 1870000 of 3402287
+ ...processing event 1871000 of 3402287
+ ...processing event 1872000 of 3402287
+ ...processing event 1873000 of 3402287
+ ...processing event 1874000 of 3402287
+ ...processing event 1875000 of 3402287
+ ...processing event 1876000 of 3402287
+ ...processing event 1877000 of 3402287
+ ...processing event 1878000 of 3402287
+ ...processing event 1879000 of 3402287
+ ...processing event 1880000 of 3402287
+ ...processing event 1881000 of 3402287
+ ...processing event 1882000 of 3402287
+ ...processing event 1883000 of 3402287
+ ...processing event 1884000 of 3402287
+ ...processing event 1885000 of 3402287
+ ...processing event 1886000 of 3402287
+ ...processing event 1887000 of 3402287
+ ...processing event 1888000 of 3402287
+ ...processing event 1889000 of 3402287
+ ...processing event 1890000 of 3402287
+ ...processing event 1891000 of 3402287
+ ...processing event 1892000 of 3402287
+ ...processing event 1893000 of 3402287
+ ...processing event 1894000 of 3402287
+ ...processing event 1895000 of 3402287
+ ...processing event 1896000 of 3402287
+ ...processing event 1897000 of 3402287
+ ...processing event 1898000 of 3402287
+ ...processing event 1899000 of 3402287
+ ...processing event 1900000 of 3402287
+ ...processing event 1901000 of 3402287
+ ...processing event 1902000 of 3402287
+ ...processing event 1903000 of 3402287
+ ...processing event 1904000 of 3402287
+ ...processing event 1905000 of 3402287
+ ...processing event 1906000 of 3402287
+ ...processing event 1907000 of 3402287
+ ...processing event 1908000 of 3402287
+ ...processing event 1909000 of 3402287
+1909070 timeDiff = 0.00116244
+26 -99
+Events in chn 26 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+1909070 timeDiff = 0.00121396
+26 -99
+Events in chn 26 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+1909070 timeDiff = 0.00134126
+26 -99
+Events in chn 26 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 1910000 of 3402287
+ ...processing event 1911000 of 3402287
+ ...processing event 1912000 of 3402287
+ ...processing event 1913000 of 3402287
+ ...processing event 1914000 of 3402287
+ ...processing event 1915000 of 3402287
+ ...processing event 1916000 of 3402287
+ ...processing event 1917000 of 3402287
+ ...processing event 1918000 of 3402287
+ ...processing event 1919000 of 3402287
+ ...processing event 1920000 of 3402287
+ ...processing event 1921000 of 3402287
+ ...processing event 1922000 of 3402287
+ ...processing event 1923000 of 3402287
+ ...processing event 1924000 of 3402287
+ ...processing event 1925000 of 3402287
+ ...processing event 1926000 of 3402287
+ ...processing event 1927000 of 3402287
+ ...processing event 1928000 of 3402287
+ ...processing event 1929000 of 3402287
+ ...processing event 1930000 of 3402287
+ ...processing event 1931000 of 3402287
+ ...processing event 1932000 of 3402287
+ ...processing event 1933000 of 3402287
+ ...processing event 1934000 of 3402287
+1934366 timeDiff = 0.000753314
+40 -99
+ ...processing event 1935000 of 3402287
+ ...processing event 1936000 of 3402287
+ ...processing event 1937000 of 3402287
+ ...processing event 1938000 of 3402287
+ ...processing event 1939000 of 3402287
+ ...processing event 1940000 of 3402287
+ ...processing event 1941000 of 3402287
+ ...processing event 1942000 of 3402287
+ ...processing event 1943000 of 3402287
+ ...processing event 1944000 of 3402287
+ ...processing event 1945000 of 3402287
+ ...processing event 1946000 of 3402287
+ ...processing event 1947000 of 3402287
+ ...processing event 1948000 of 3402287
+ ...processing event 1949000 of 3402287
+ ...processing event 1950000 of 3402287
+ ...processing event 1951000 of 3402287
+ ...processing event 1952000 of 3402287
+1952825 timeDiff = 0.00131604
+39 -99
+ ...processing event 1953000 of 3402287
+ ...processing event 1954000 of 3402287
+ ...processing event 1955000 of 3402287
+ ...processing event 1956000 of 3402287
+ ...processing event 1957000 of 3402287
+ ...processing event 1958000 of 3402287
+ ...processing event 1959000 of 3402287
+ ...processing event 1960000 of 3402287
+ ...processing event 1961000 of 3402287
+ ...processing event 1962000 of 3402287
+ ...processing event 1963000 of 3402287
+1963760 timeDiff = 0.000450752
+10 -99
+Events in chn 10 and -99, in strings 2 and 0 -> NOT a BiPo EVENT
+ ...processing event 1964000 of 3402287
+ ...processing event 1965000 of 3402287
+ ...processing event 1966000 of 3402287
+ ...processing event 1967000 of 3402287
+ ...processing event 1968000 of 3402287
+ ...processing event 1969000 of 3402287
+ ...processing event 1970000 of 3402287
+ ...processing event 1971000 of 3402287
+ ...processing event 1972000 of 3402287
+ ...processing event 1973000 of 3402287
+ ...processing event 1974000 of 3402287
+ ...processing event 1975000 of 3402287
+ ...processing event 1976000 of 3402287
+ ...processing event 1977000 of 3402287
+ ...processing event 1978000 of 3402287
+ ...processing event 1979000 of 3402287
+1979716 timeDiff = 0.00111758
+28 -99
+Events in chn 28 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+ ...processing event 1980000 of 3402287
+ ...processing event 1981000 of 3402287
+ ...processing event 1982000 of 3402287
+ ...processing event 1983000 of 3402287
+1983074 timeDiff = 0.000689264
+10 -99
+Events in chn 10 and -99, in strings 2 and 0 -> NOT a BiPo EVENT
+ ...processing event 1984000 of 3402287
+ ...processing event 1985000 of 3402287
+ ...processing event 1986000 of 3402287
+ ...processing event 1987000 of 3402287
+ ...processing event 1988000 of 3402287
+ ...processing event 1989000 of 3402287
+ ...processing event 1990000 of 3402287
+1990910 timeDiff = 0.000153131
+4 -99
+ ...processing event 1991000 of 3402287
+ ...processing event 1992000 of 3402287
+ ...processing event 1993000 of 3402287
+ ...processing event 1994000 of 3402287
+ ...processing event 1995000 of 3402287
+ ...processing event 1996000 of 3402287
+ ...processing event 1997000 of 3402287
+ ...processing event 1998000 of 3402287
+ ...processing event 1999000 of 3402287
+ ...processing event 2000000 of 3402287
+ ...processing event 2001000 of 3402287
+ ...processing event 2002000 of 3402287
+ ...processing event 2003000 of 3402287
+ ...processing event 2004000 of 3402287
+ ...processing event 2005000 of 3402287
+ ...processing event 2006000 of 3402287
+ ...processing event 2007000 of 3402287
+ ...processing event 2008000 of 3402287
+ ...processing event 2009000 of 3402287
+ ...processing event 2010000 of 3402287
+ ...processing event 2011000 of 3402287
+ ...processing event 2012000 of 3402287
+ ...processing event 2013000 of 3402287
+ ...processing event 2014000 of 3402287
+ ...processing event 2015000 of 3402287
+ ...processing event 2016000 of 3402287
+ ...processing event 2017000 of 3402287
+ ...processing event 2018000 of 3402287
+ ...processing event 2019000 of 3402287
+2019939 timeDiff = 8.256e-05
+40 -99
+ ...processing event 2020000 of 3402287
+ ...processing event 2021000 of 3402287
+2021323 timeDiff = 0.000183931
+39 -99
+ ...processing event 2022000 of 3402287
+ ...processing event 2023000 of 3402287
+ ...processing event 2024000 of 3402287
+ ...processing event 2025000 of 3402287
+ ...processing event 2026000 of 3402287
+ ...processing event 2027000 of 3402287
+ ...processing event 2028000 of 3402287
+ ...processing event 2029000 of 3402287
+ ...processing event 2030000 of 3402287
+2030453 timeDiff = 0.000624973
+26 -99
+Events in chn 26 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 2031000 of 3402287
+ ...processing event 2032000 of 3402287
+2032977 timeDiff = 7.9371e-05
+7 -99
+2032977 timeDiff = 0.000150131
+7 -99
+2032977 timeDiff = 0.000977535
+7 -99
+2032977 timeDiff = 0.00143073
+7 -99
+ ...processing event 2033000 of 3402287
+ ...processing event 2034000 of 3402287
+2034195 timeDiff = 0.00158692
+5 -99
+ ...processing event 2035000 of 3402287
+ ...processing event 2036000 of 3402287
+ ...processing event 2037000 of 3402287
+ ...processing event 2038000 of 3402287
+ ...processing event 2039000 of 3402287
+ ...processing event 2040000 of 3402287
+ ...processing event 2041000 of 3402287
+2041433 timeDiff = 0.00163096
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 2042000 of 3402287
+ ...processing event 2043000 of 3402287
+ ...processing event 2044000 of 3402287
+ ...processing event 2045000 of 3402287
+ ...processing event 2046000 of 3402287
+ ...processing event 2047000 of 3402287
+ ...processing event 2048000 of 3402287
+ ...processing event 2049000 of 3402287
+2049983 timeDiff = 0.000222151
+38 -99
+ ...processing event 2050000 of 3402287
+ ...processing event 2051000 of 3402287
+ ...processing event 2052000 of 3402287
+ ...processing event 2053000 of 3402287
+ ...processing event 2054000 of 3402287
+ ...processing event 2055000 of 3402287
+ ...processing event 2056000 of 3402287
+ ...processing event 2057000 of 3402287
+ ...processing event 2058000 of 3402287
+ ...processing event 2059000 of 3402287
+ ...processing event 2060000 of 3402287
+ ...processing event 2061000 of 3402287
+ ...processing event 2062000 of 3402287
+ ...processing event 2063000 of 3402287
+ ...processing event 2064000 of 3402287
+ ...processing event 2065000 of 3402287
+ ...processing event 2066000 of 3402287
+ ...processing event 2067000 of 3402287
+ ...processing event 2068000 of 3402287
+ ...processing event 2069000 of 3402287
+ ...processing event 2070000 of 3402287
+ ...processing event 2071000 of 3402287
+ ...processing event 2072000 of 3402287
+ ...processing event 2073000 of 3402287
+ ...processing event 2074000 of 3402287
+ ...processing event 2075000 of 3402287
+ ...processing event 2076000 of 3402287
+2076445 timeDiff = 6.95101e-05
+29 -99
+Events in chn 29 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+ ...processing event 2077000 of 3402287
+ ...processing event 2078000 of 3402287
+ ...processing event 2079000 of 3402287
+ ...processing event 2080000 of 3402287
+ ...processing event 2081000 of 3402287
+ ...processing event 2082000 of 3402287
+ ...processing event 2083000 of 3402287
+ ...processing event 2084000 of 3402287
+ ...processing event 2085000 of 3402287
+ ...processing event 2086000 of 3402287
+ ...processing event 2087000 of 3402287
+ ...processing event 2088000 of 3402287
+ ...processing event 2089000 of 3402287
+ ...processing event 2090000 of 3402287
+ ...processing event 2091000 of 3402287
+2091604 timeDiff = 9.002e-05
+25 -99
+Events in chn 25 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 2092000 of 3402287
+ ...processing event 2093000 of 3402287
+ ...processing event 2094000 of 3402287
+2094959 timeDiff = 0.00108592
+1 -99
+ ...processing event 2095000 of 3402287
+ ...processing event 2096000 of 3402287
+ ...processing event 2097000 of 3402287
+ ...processing event 2098000 of 3402287
+ ...processing event 2099000 of 3402287
+ ...processing event 2100000 of 3402287
+ ...processing event 2101000 of 3402287
+ ...processing event 2102000 of 3402287
+ ...processing event 2103000 of 3402287
+ ...processing event 2104000 of 3402287
+2104265 timeDiff = 0.000440052
+27 -99
+Events in chn 27 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+ ...processing event 2105000 of 3402287
+ ...processing event 2106000 of 3402287
+ ...processing event 2107000 of 3402287
+ ...processing event 2108000 of 3402287
+ ...processing event 2109000 of 3402287
+ ...processing event 2110000 of 3402287
+ ...processing event 2111000 of 3402287
+ ...processing event 2112000 of 3402287
+ ...processing event 2113000 of 3402287
+ ...processing event 2114000 of 3402287
+ ...processing event 2115000 of 3402287
+ ...processing event 2116000 of 3402287
+ ...processing event 2117000 of 3402287
+ ...processing event 2118000 of 3402287
+ ...processing event 2119000 of 3402287
+ ...processing event 2120000 of 3402287
+ ...processing event 2121000 of 3402287
+ ...processing event 2122000 of 3402287
+ ...processing event 2123000 of 3402287
+2123202 timeDiff = 0.000739594
+21 -99
+Events in chn 21 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 2124000 of 3402287
+ ...processing event 2125000 of 3402287
+ ...processing event 2126000 of 3402287
+ ...processing event 2127000 of 3402287
+ ...processing event 2128000 of 3402287
+ ...processing event 2129000 of 3402287
+ ...processing event 2130000 of 3402287
+ ...processing event 2131000 of 3402287
+ ...processing event 2132000 of 3402287
+ ...processing event 2133000 of 3402287
+ ...processing event 2134000 of 3402287
+2134174 timeDiff = 0.00153528
+29 -99
+Events in chn 29 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+ ...processing event 2135000 of 3402287
+ ...processing event 2136000 of 3402287
+ ...processing event 2137000 of 3402287
+ ...processing event 2138000 of 3402287
+ ...processing event 2139000 of 3402287
+ ...processing event 2140000 of 3402287
+ ...processing event 2141000 of 3402287
+ ...processing event 2142000 of 3402287
+ ...processing event 2143000 of 3402287
+ ...processing event 2144000 of 3402287
+ ...processing event 2145000 of 3402287
+ ...processing event 2146000 of 3402287
+ ...processing event 2147000 of 3402287
+ ...processing event 2148000 of 3402287
+ ...processing event 2149000 of 3402287
+2149298 timeDiff = 0.000156631
+29 -99
+Events in chn 29 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+ ...processing event 2150000 of 3402287
+ ...processing event 2151000 of 3402287
+ ...processing event 2152000 of 3402287
+ ...processing event 2153000 of 3402287
+ ...processing event 2154000 of 3402287
+ ...processing event 2155000 of 3402287
+ ...processing event 2156000 of 3402287
+ ...processing event 2157000 of 3402287
+ ...processing event 2158000 of 3402287
+2158354 timeDiff = 0.00120826
+33 39
+Events in strings 6 and 7 with near detectors
+33 39 multiplicity = 1 1 energy = 348.93 1055.18, failedFlag2 = 0 isLarVetoed1 = 0 isLarVetoed2 = 0 timeDiff = 0.00120826
+ ...processing event 2159000 of 3402287
+ ...processing event 2160000 of 3402287
+ ...processing event 2161000 of 3402287
+ ...processing event 2162000 of 3402287
+ ...processing event 2163000 of 3402287
+ ...processing event 2164000 of 3402287
+2164901 timeDiff = 0.000213821
+39 -99
+ ...processing event 2165000 of 3402287
+ ...processing event 2166000 of 3402287
+ ...processing event 2167000 of 3402287
+ ...processing event 2168000 of 3402287
+ ...processing event 2169000 of 3402287
+ ...processing event 2170000 of 3402287
+ ...processing event 2171000 of 3402287
+ ...processing event 2172000 of 3402287
+ ...processing event 2173000 of 3402287
+ ...processing event 2174000 of 3402287
+ ...processing event 2175000 of 3402287
+ ...processing event 2176000 of 3402287
+ ...processing event 2177000 of 3402287
+ ...processing event 2178000 of 3402287
+ ...processing event 2179000 of 3402287
+ ...processing event 2180000 of 3402287
+2180295 timeDiff = 0.00125848
+21 -99
+Events in chn 21 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 2181000 of 3402287
+ ...processing event 2182000 of 3402287
+ ...processing event 2183000 of 3402287
+ ...processing event 2184000 of 3402287
+ ...processing event 2185000 of 3402287
+ ...processing event 2186000 of 3402287
+ ...processing event 2187000 of 3402287
+ ...processing event 2188000 of 3402287
+ ...processing event 2189000 of 3402287
+ ...processing event 2190000 of 3402287
+ ...processing event 2191000 of 3402287
+ ...processing event 2192000 of 3402287
+ ...processing event 2193000 of 3402287
+ ...processing event 2194000 of 3402287
+ ...processing event 2195000 of 3402287
+ ...processing event 2196000 of 3402287
+2196644 timeDiff = 0.00014839
+39 -99
+ ...processing event 2197000 of 3402287
+ ...processing event 2198000 of 3402287
+ ...processing event 2199000 of 3402287
+ ...processing event 2200000 of 3402287
+ ...processing event 2201000 of 3402287
+ ...processing event 2202000 of 3402287
+ ...processing event 2203000 of 3402287
+ ...processing event 2204000 of 3402287
+ ...processing event 2205000 of 3402287
+ ...processing event 2206000 of 3402287
+ ...processing event 2207000 of 3402287
+ ...processing event 2208000 of 3402287
+ ...processing event 2209000 of 3402287
+ ...processing event 2210000 of 3402287
+ ...processing event 2211000 of 3402287
+ ...processing event 2212000 of 3402287
+ ...processing event 2213000 of 3402287
+2213189 timeDiff = 0.000392692
+20 -99
+Events in chn 20 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 2214000 of 3402287
+ ...processing event 2215000 of 3402287
+ ...processing event 2216000 of 3402287
+ ...processing event 2217000 of 3402287
+ ...processing event 2218000 of 3402287
+ ...processing event 2219000 of 3402287
+ ...processing event 2220000 of 3402287
+ ...processing event 2221000 of 3402287
+ ...processing event 2222000 of 3402287
+ ...processing event 2223000 of 3402287
+ ...processing event 2224000 of 3402287
+2224458 timeDiff = 0.000489312
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 2225000 of 3402287
+ ...processing event 2226000 of 3402287
+ ...processing event 2227000 of 3402287
+ ...processing event 2228000 of 3402287
+ ...processing event 2229000 of 3402287
+ ...processing event 2230000 of 3402287
+ ...processing event 2231000 of 3402287
+ ...processing event 2232000 of 3402287
+ ...processing event 2233000 of 3402287
+ ...processing event 2234000 of 3402287
+ ...processing event 2235000 of 3402287
+ ...processing event 2236000 of 3402287
+2236936 timeDiff = 0.000132531
+40 -99
+ ...processing event 2237000 of 3402287
+ ...processing event 2238000 of 3402287
+ ...processing event 2239000 of 3402287
+ ...processing event 2240000 of 3402287
+ ...processing event 2241000 of 3402287
+2241558 timeDiff = 0.00100926
+23 -99
+Events in chn 23 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+2241558 timeDiff = 0.00122959
+23 -99
+Events in chn 23 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+2241558 timeDiff = 0.00137727
+23 -99
+Events in chn 23 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+2241558 timeDiff = 0.00137727
+23 -99
+Events in chn 23 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+2241558 timeDiff = 0.00142754
+23 -99
+Events in chn 23 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+2241558 timeDiff = 0.00152192
+23 -99
+Events in chn 23 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 2242000 of 3402287
+ ...processing event 2243000 of 3402287
+ ...processing event 2244000 of 3402287
+2244665 timeDiff = 0.000258391
+29 -99
+Events in chn 29 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+ ...processing event 2245000 of 3402287
+ ...processing event 2246000 of 3402287
+ ...processing event 2247000 of 3402287
+ ...processing event 2248000 of 3402287
+ ...processing event 2249000 of 3402287
+2249678 timeDiff = 0.00153199
+4 -99
+ ...processing event 2250000 of 3402287
+ ...processing event 2251000 of 3402287
+ ...processing event 2252000 of 3402287
+ ...processing event 2253000 of 3402287
+ ...processing event 2254000 of 3402287
+ ...processing event 2255000 of 3402287
+ ...processing event 2256000 of 3402287
+ ...processing event 2257000 of 3402287
+ ...processing event 2258000 of 3402287
+ ...processing event 2259000 of 3402287
+ ...processing event 2260000 of 3402287
+ ...processing event 2261000 of 3402287
+ ...processing event 2262000 of 3402287
+ ...processing event 2263000 of 3402287
+ ...processing event 2264000 of 3402287
+ ...processing event 2265000 of 3402287
+ ...processing event 2266000 of 3402287
+ ...processing event 2267000 of 3402287
+ ...processing event 2268000 of 3402287
+2268883 timeDiff = 0.000671783
+23 -99
+Events in chn 23 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 2269000 of 3402287
+ ...processing event 2270000 of 3402287
+ ...processing event 2271000 of 3402287
+ ...processing event 2272000 of 3402287
+ ...processing event 2273000 of 3402287
+ ...processing event 2274000 of 3402287
+ ...processing event 2275000 of 3402287
+ ...processing event 2276000 of 3402287
+2276492 timeDiff = 0.000887454
+32 -99
+Events in chn 32 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 2277000 of 3402287
+ ...processing event 2278000 of 3402287
+ ...processing event 2279000 of 3402287
+ ...processing event 2280000 of 3402287
+ ...processing event 2281000 of 3402287
+ ...processing event 2282000 of 3402287
+ ...processing event 2283000 of 3402287
+ ...processing event 2284000 of 3402287
+ ...processing event 2285000 of 3402287
+ ...processing event 2286000 of 3402287
+ ...processing event 2287000 of 3402287
+ ...processing event 2288000 of 3402287
+ ...processing event 2289000 of 3402287
+ ...processing event 2290000 of 3402287
+ ...processing event 2291000 of 3402287
+ ...processing event 2292000 of 3402287
+ ...processing event 2293000 of 3402287
+ ...processing event 2294000 of 3402287
+ ...processing event 2295000 of 3402287
+ ...processing event 2296000 of 3402287
+ ...processing event 2297000 of 3402287
+ ...processing event 2298000 of 3402287
+ ...processing event 2299000 of 3402287
+ ...processing event 2300000 of 3402287
+ ...processing event 2301000 of 3402287
+ ...processing event 2302000 of 3402287
+ ...processing event 2303000 of 3402287
+ ...processing event 2304000 of 3402287
+ ...processing event 2305000 of 3402287
+ ...processing event 2306000 of 3402287
+ ...processing event 2307000 of 3402287
+ ...processing event 2308000 of 3402287
+ ...processing event 2309000 of 3402287
+ ...processing event 2310000 of 3402287
+ ...processing event 2311000 of 3402287
+ ...processing event 2312000 of 3402287
+ ...processing event 2313000 of 3402287
+ ...processing event 2314000 of 3402287
+2314499 timeDiff = 0.000226321
+20 10
+Events in chn 20 and 10, in strings 4 and 2 -> NOT a BiPo EVENT
+ ...processing event 2315000 of 3402287
+ ...processing event 2316000 of 3402287
+ ...processing event 2317000 of 3402287
+ ...processing event 2318000 of 3402287
+ ...processing event 2319000 of 3402287
+ ...processing event 2320000 of 3402287
+2320747 timeDiff = 0.00100674
+40 -99
+ ...processing event 2321000 of 3402287
+ ...processing event 2322000 of 3402287
+ ...processing event 2323000 of 3402287
+ ...processing event 2324000 of 3402287
+ ...processing event 2325000 of 3402287
+ ...processing event 2326000 of 3402287
+ ...processing event 2327000 of 3402287
+ ...processing event 2328000 of 3402287
+ ...processing event 2329000 of 3402287
+ ...processing event 2330000 of 3402287
+ ...processing event 2331000 of 3402287
+ ...processing event 2332000 of 3402287
+ ...processing event 2333000 of 3402287
+ ...processing event 2334000 of 3402287
+ ...processing event 2335000 of 3402287
+ ...processing event 2336000 of 3402287
+ ...processing event 2337000 of 3402287
+ ...processing event 2338000 of 3402287
+ ...processing event 2339000 of 3402287
+ ...processing event 2340000 of 3402287
+ ...processing event 2341000 of 3402287
+ ...processing event 2342000 of 3402287
+ ...processing event 2343000 of 3402287
+ ...processing event 2344000 of 3402287
+ ...processing event 2345000 of 3402287
+ ...processing event 2346000 of 3402287
+ ...processing event 2347000 of 3402287
+ ...processing event 2348000 of 3402287
+ ...processing event 2349000 of 3402287
+ ...processing event 2350000 of 3402287
+ ...processing event 2351000 of 3402287
+ ...processing event 2352000 of 3402287
+ ...processing event 2353000 of 3402287
+2353970 timeDiff = 0.00115081
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 2354000 of 3402287
+ ...processing event 2355000 of 3402287
+ ...processing event 2356000 of 3402287
+ ...processing event 2357000 of 3402287
+ ...processing event 2358000 of 3402287
+ ...processing event 2359000 of 3402287
+ ...processing event 2360000 of 3402287
+ ...processing event 2361000 of 3402287
+ ...processing event 2362000 of 3402287
+ ...processing event 2363000 of 3402287
+ ...processing event 2364000 of 3402287
+2364074 timeDiff = 0.000504582
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+2364077 timeDiff = 0.000854745
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+2364079 timeDiff = 0.00119215
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 2365000 of 3402287
+ ...processing event 2366000 of 3402287
+ ...processing event 2367000 of 3402287
+ ...processing event 2368000 of 3402287
+ ...processing event 2369000 of 3402287
+ ...processing event 2370000 of 3402287
+ ...processing event 2371000 of 3402287
+ ...processing event 2372000 of 3402287
+2372518 timeDiff = 0.000399772
+0 -99
+ ...processing event 2373000 of 3402287
+ ...processing event 2374000 of 3402287
+ ...processing event 2375000 of 3402287
+2375603 timeDiff = 0.00130555
+4 27
+Events in chn 4 and 27, in strings 1 and 5 -> NOT a BiPo EVENT
+ ...processing event 2376000 of 3402287
+ ...processing event 2377000 of 3402287
+ ...processing event 2378000 of 3402287
+ ...processing event 2379000 of 3402287
+ ...processing event 2380000 of 3402287
+ ...processing event 2381000 of 3402287
+2381380 timeDiff = 0.00106838
+34 -99
+Events in chn 34 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 2382000 of 3402287
+ ...processing event 2383000 of 3402287
+ ...processing event 2384000 of 3402287
+ ...processing event 2385000 of 3402287
+ ...processing event 2386000 of 3402287
+ ...processing event 2387000 of 3402287
+ ...processing event 2388000 of 3402287
+ ...processing event 2389000 of 3402287
+ ...processing event 2390000 of 3402287
+2390655 timeDiff = 0.000451342
+24 -99
+Events in chn 24 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 2391000 of 3402287
+ ...processing event 2392000 of 3402287
+ ...processing event 2393000 of 3402287
+ ...processing event 2394000 of 3402287
+ ...processing event 2395000 of 3402287
+ ...processing event 2396000 of 3402287
+ ...processing event 2397000 of 3402287
+ ...processing event 2398000 of 3402287
+ ...processing event 2399000 of 3402287
+ ...processing event 2400000 of 3402287
+ ...processing event 2401000 of 3402287
+ ...processing event 2402000 of 3402287
+ ...processing event 2403000 of 3402287
+ ...processing event 2404000 of 3402287
+ ...processing event 2405000 of 3402287
+ ...processing event 2406000 of 3402287
+ ...processing event 2407000 of 3402287
+ ...processing event 2408000 of 3402287
+ ...processing event 2409000 of 3402287
+ ...processing event 2410000 of 3402287
+ ...processing event 2411000 of 3402287
+ ...processing event 2412000 of 3402287
+ ...processing event 2413000 of 3402287
+ ...processing event 2414000 of 3402287
+ ...processing event 2415000 of 3402287
+ ...processing event 2416000 of 3402287
+2416600 timeDiff = 0.000202671
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 2417000 of 3402287
+ ...processing event 2418000 of 3402287
+ ...processing event 2419000 of 3402287
+ ...processing event 2420000 of 3402287
+2420273 timeDiff = 0.000568503
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+2420273 timeDiff = 0.000625973
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+2420449 timeDiff = 0.000201721
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 2421000 of 3402287
+2421259 timeDiff = 0.00147411
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+2421259 timeDiff = 0.00159404
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 2422000 of 3402287
+ ...processing event 2423000 of 3402287
+ ...processing event 2424000 of 3402287
+ ...processing event 2425000 of 3402287
+2425578 timeDiff = 0.00158758
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+2425670 timeDiff = 0.000658673
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 2426000 of 3402287
+ ...processing event 2427000 of 3402287
+ ...processing event 2428000 of 3402287
+ ...processing event 2429000 of 3402287
+ ...processing event 2430000 of 3402287
+ ...processing event 2431000 of 3402287
+ ...processing event 2432000 of 3402287
+ ...processing event 2433000 of 3402287
+ ...processing event 2434000 of 3402287
+ ...processing event 2435000 of 3402287
+ ...processing event 2436000 of 3402287
+ ...processing event 2437000 of 3402287
+ ...processing event 2438000 of 3402287
+ ...processing event 2439000 of 3402287
+ ...processing event 2440000 of 3402287
+ ...processing event 2441000 of 3402287
+ ...processing event 2442000 of 3402287
+ ...processing event 2443000 of 3402287
+ ...processing event 2444000 of 3402287
+ ...processing event 2445000 of 3402287
+ ...processing event 2446000 of 3402287
+ ...processing event 2447000 of 3402287
+ ...processing event 2448000 of 3402287
+ ...processing event 2449000 of 3402287
+ ...processing event 2450000 of 3402287
+ ...processing event 2451000 of 3402287
+ ...processing event 2452000 of 3402287
+ ...processing event 2453000 of 3402287
+ ...processing event 2454000 of 3402287
+ ...processing event 2455000 of 3402287
+ ...processing event 2456000 of 3402287
+ ...processing event 2457000 of 3402287
+ ...processing event 2458000 of 3402287
+ ...processing event 2459000 of 3402287
+2459447 timeDiff = 0.000915615
+4 -99
+ ...processing event 2460000 of 3402287
+ ...processing event 2461000 of 3402287
+ ...processing event 2462000 of 3402287
+ ...processing event 2463000 of 3402287
+ ...processing event 2464000 of 3402287
+ ...processing event 2465000 of 3402287
+ ...processing event 2466000 of 3402287
+2466677 timeDiff = 0.00137215
+38 -99
+ ...processing event 2467000 of 3402287
+ ...processing event 2468000 of 3402287
+ ...processing event 2469000 of 3402287
+ ...processing event 2470000 of 3402287
+ ...processing event 2471000 of 3402287
+ ...processing event 2472000 of 3402287
+2472756 timeDiff = 0.000634543
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 2473000 of 3402287
+ ...processing event 2474000 of 3402287
+ ...processing event 2475000 of 3402287
+ ...processing event 2476000 of 3402287
+ ...processing event 2477000 of 3402287
+ ...processing event 2478000 of 3402287
+ ...processing event 2479000 of 3402287
+ ...processing event 2480000 of 3402287
+2480942 timeDiff = 0.00110257
+10 -99
+Events in chn 10 and -99, in strings 2 and 0 -> NOT a BiPo EVENT
+ ...processing event 2481000 of 3402287
+ ...processing event 2482000 of 3402287
+ ...processing event 2483000 of 3402287
+ ...processing event 2484000 of 3402287
+ ...processing event 2485000 of 3402287
+ ...processing event 2486000 of 3402287
+ ...processing event 2487000 of 3402287
+ ...processing event 2488000 of 3402287
+ ...processing event 2489000 of 3402287
+ ...processing event 2490000 of 3402287
+ ...processing event 2491000 of 3402287
+2491533 timeDiff = 0.00160602
+24 -99
+Events in chn 24 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 2492000 of 3402287
+ ...processing event 2493000 of 3402287
+ ...processing event 2494000 of 3402287
+ ...processing event 2495000 of 3402287
+ ...processing event 2496000 of 3402287
+ ...processing event 2497000 of 3402287
+2497932 timeDiff = 0.000168041
+13 -99
+Events in chn 13 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 2498000 of 3402287
+ ...processing event 2499000 of 3402287
+ ...processing event 2500000 of 3402287
+ ...processing event 2501000 of 3402287
+ ...processing event 2502000 of 3402287
+ ...processing event 2503000 of 3402287
+ ...processing event 2504000 of 3402287
+ ...processing event 2505000 of 3402287
+2505427 timeDiff = 0.000208621
+22 -99
+Events in chn 22 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+2505427 timeDiff = 0.000270371
+22 -99
+Events in chn 22 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+2505995 timeDiff = 0.000207741
+38 -99
+ ...processing event 2506000 of 3402287
+ ...processing event 2507000 of 3402287
+ ...processing event 2508000 of 3402287
+ ...processing event 2509000 of 3402287
+ ...processing event 2510000 of 3402287
+ ...processing event 2511000 of 3402287
+ ...processing event 2512000 of 3402287
+ ...processing event 2513000 of 3402287
+ ...processing event 2514000 of 3402287
+ ...processing event 2515000 of 3402287
+ ...processing event 2516000 of 3402287
+ ...processing event 2517000 of 3402287
+ ...processing event 2518000 of 3402287
+ ...processing event 2519000 of 3402287
+ ...processing event 2520000 of 3402287
+ ...processing event 2521000 of 3402287
+ ...processing event 2522000 of 3402287
+ ...processing event 2523000 of 3402287
+ ...processing event 2524000 of 3402287
+ ...processing event 2525000 of 3402287
+ ...processing event 2526000 of 3402287
+ ...processing event 2527000 of 3402287
+ ...processing event 2528000 of 3402287
+ ...processing event 2529000 of 3402287
+ ...processing event 2530000 of 3402287
+ ...processing event 2531000 of 3402287
+ ...processing event 2532000 of 3402287
+ ...processing event 2533000 of 3402287
+ ...processing event 2534000 of 3402287
+ ...processing event 2535000 of 3402287
+ ...processing event 2536000 of 3402287
+ ...processing event 2537000 of 3402287
+ ...processing event 2538000 of 3402287
+2538550 timeDiff = 0.000414282
+BiPo Event of type I in ch 6
+multiplicity = 1 1 energy = 38.0907 6675.86, failedFlag2 = 0 isLarVetoed1 = 1 isLarVetoed2 = 0 timeDiff = 0.000414282
+PSD flags event 2538550 and 2538551:
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+ ...processing event 2539000 of 3402287
+ ...processing event 2540000 of 3402287
+ ...processing event 2541000 of 3402287
+ ...processing event 2542000 of 3402287
+ ...processing event 2543000 of 3402287
+ ...processing event 2544000 of 3402287
+ ...processing event 2545000 of 3402287
+ ...processing event 2546000 of 3402287
+ ...processing event 2547000 of 3402287
+ ...processing event 2548000 of 3402287
+ ...processing event 2549000 of 3402287
+ ...processing event 2550000 of 3402287
+ ...processing event 2551000 of 3402287
+ ...processing event 2552000 of 3402287
+ ...processing event 2553000 of 3402287
+ ...processing event 2554000 of 3402287
+ ...processing event 2555000 of 3402287
+ ...processing event 2556000 of 3402287
+ ...processing event 2557000 of 3402287
+ ...processing event 2558000 of 3402287
+ ...processing event 2559000 of 3402287
+ ...processing event 2560000 of 3402287
+ ...processing event 2561000 of 3402287
+ ...processing event 2562000 of 3402287
+ ...processing event 2563000 of 3402287
+ ...processing event 2564000 of 3402287
+ ...processing event 2565000 of 3402287
+ ...processing event 2566000 of 3402287
+ ...processing event 2567000 of 3402287
+ ...processing event 2568000 of 3402287
+ ...processing event 2569000 of 3402287
+ ...processing event 2570000 of 3402287
+ ...processing event 2571000 of 3402287
+ ...processing event 2572000 of 3402287
+ ...processing event 2573000 of 3402287
+ ...processing event 2574000 of 3402287
+ ...processing event 2575000 of 3402287
+ ...processing event 2576000 of 3402287
+ ...processing event 2577000 of 3402287
+2577262 timeDiff = 0.00160711
+10 -99
+Events in chn 10 and -99, in strings 2 and 0 -> NOT a BiPo EVENT
+ ...processing event 2578000 of 3402287
+ ...processing event 2579000 of 3402287
+ ...processing event 2580000 of 3402287
+ ...processing event 2581000 of 3402287
+ ...processing event 2582000 of 3402287
+ ...processing event 2583000 of 3402287
+ ...processing event 2584000 of 3402287
+ ...processing event 2585000 of 3402287
+ ...processing event 2586000 of 3402287
+ ...processing event 2587000 of 3402287
+2587628 timeDiff = 0.000551662
+26 -99
+Events in chn 26 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+2587628 timeDiff = 0.00101668
+26 -99
+Events in chn 26 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 2588000 of 3402287
+ ...processing event 2589000 of 3402287
+ ...processing event 2590000 of 3402287
+ ...processing event 2591000 of 3402287
+ ...processing event 2592000 of 3402287
+ ...processing event 2593000 of 3402287
+ ...processing event 2594000 of 3402287
+ ...processing event 2595000 of 3402287
+ ...processing event 2596000 of 3402287
+2596179 timeDiff = 0.00163191
+40 -99
+ ...processing event 2597000 of 3402287
+ ...processing event 2598000 of 3402287
+ ...processing event 2599000 of 3402287
+ ...processing event 2600000 of 3402287
+2600123 timeDiff = 0.00139037
+27 -99
+Events in chn 27 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+2600123 timeDiff = 0.00147364
+27 -99
+Events in chn 27 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+ ...processing event 2601000 of 3402287
+ ...processing event 2602000 of 3402287
+ ...processing event 2603000 of 3402287
+ ...processing event 2604000 of 3402287
+ ...processing event 2605000 of 3402287
+ ...processing event 2606000 of 3402287
+ ...processing event 2607000 of 3402287
+ ...processing event 2608000 of 3402287
+ ...processing event 2609000 of 3402287
+ ...processing event 2610000 of 3402287
+2610066 timeDiff = 0.00154929
+22 -99
+Events in chn 22 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 2611000 of 3402287
+ ...processing event 2612000 of 3402287
+ ...processing event 2613000 of 3402287
+ ...processing event 2614000 of 3402287
+ ...processing event 2615000 of 3402287
+ ...processing event 2616000 of 3402287
+ ...processing event 2617000 of 3402287
+ ...processing event 2618000 of 3402287
+ ...processing event 2619000 of 3402287
+ ...processing event 2620000 of 3402287
+ ...processing event 2621000 of 3402287
+ ...processing event 2622000 of 3402287
+ ...processing event 2623000 of 3402287
+ ...processing event 2624000 of 3402287
+ ...processing event 2625000 of 3402287
+ ...processing event 2626000 of 3402287
+ ...processing event 2627000 of 3402287
+ ...processing event 2628000 of 3402287
+ ...processing event 2629000 of 3402287
+ ...processing event 2630000 of 3402287
+ ...processing event 2631000 of 3402287
+ ...processing event 2632000 of 3402287
+ ...processing event 2633000 of 3402287
+ ...processing event 2634000 of 3402287
+ ...processing event 2635000 of 3402287
+ ...processing event 2636000 of 3402287
+ ...processing event 2637000 of 3402287
+ ...processing event 2638000 of 3402287
+ ...processing event 2639000 of 3402287
+ ...processing event 2640000 of 3402287
+ ...processing event 2641000 of 3402287
+ ...processing event 2642000 of 3402287
+2642736 timeDiff = 0.000361941
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 2643000 of 3402287
+2643329 timeDiff = 0.000532893
+10 -99
+Events in chn 10 and -99, in strings 2 and 0 -> NOT a BiPo EVENT
+ ...processing event 2644000 of 3402287
+ ...processing event 2645000 of 3402287
+ ...processing event 2646000 of 3402287
+ ...processing event 2647000 of 3402287
+ ...processing event 2648000 of 3402287
+ ...processing event 2649000 of 3402287
+ ...processing event 2650000 of 3402287
+ ...processing event 2651000 of 3402287
+ ...processing event 2652000 of 3402287
+ ...processing event 2653000 of 3402287
+ ...processing event 2654000 of 3402287
+ ...processing event 2655000 of 3402287
+ ...processing event 2656000 of 3402287
+ ...processing event 2657000 of 3402287
+ ...processing event 2658000 of 3402287
+ ...processing event 2659000 of 3402287
+ ...processing event 2660000 of 3402287
+ ...processing event 2661000 of 3402287
+ ...processing event 2662000 of 3402287
+ ...processing event 2663000 of 3402287
+ ...processing event 2664000 of 3402287
+ ...processing event 2665000 of 3402287
+ ...processing event 2666000 of 3402287
+ ...processing event 2667000 of 3402287
+ ...processing event 2668000 of 3402287
+2668256 timeDiff = 0.0012161
+2 -99
+ ...processing event 2669000 of 3402287
+ ...processing event 2670000 of 3402287
+2670286 timeDiff = 0.000392862
+40 -99
+ ...processing event 2671000 of 3402287
+ ...processing event 2672000 of 3402287
+ ...processing event 2673000 of 3402287
+ ...processing event 2674000 of 3402287
+ ...processing event 2675000 of 3402287
+ ...processing event 2676000 of 3402287
+2676606 timeDiff = 0.00109614
+26 -99
+Events in chn 26 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 2677000 of 3402287
+ ...processing event 2678000 of 3402287
+ ...processing event 2679000 of 3402287
+ ...processing event 2680000 of 3402287
+ ...processing event 2681000 of 3402287
+ ...processing event 2682000 of 3402287
+ ...processing event 2683000 of 3402287
+ ...processing event 2684000 of 3402287
+ ...processing event 2685000 of 3402287
+ ...processing event 2686000 of 3402287
+2686240 timeDiff = 0.000977075
+28 -99
+Events in chn 28 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+ ...processing event 2687000 of 3402287
+ ...processing event 2688000 of 3402287
+ ...processing event 2689000 of 3402287
+ ...processing event 2690000 of 3402287
+2690710 timeDiff = 0.000873631
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 2691000 of 3402287
+ ...processing event 2692000 of 3402287
+2692875 timeDiff = 0.000757133
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 2693000 of 3402287
+ ...processing event 2694000 of 3402287
+2694171 timeDiff = 0.00152694
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 2695000 of 3402287
+ ...processing event 2696000 of 3402287
+ ...processing event 2697000 of 3402287
+ ...processing event 2698000 of 3402287
+ ...processing event 2699000 of 3402287
+ ...processing event 2700000 of 3402287
+ ...processing event 2701000 of 3402287
+ ...processing event 2702000 of 3402287
+ ...processing event 2703000 of 3402287
+ ...processing event 2704000 of 3402287
+ ...processing event 2705000 of 3402287
+ ...processing event 2706000 of 3402287
+ ...processing event 2707000 of 3402287
+ ...processing event 2708000 of 3402287
+ ...processing event 2709000 of 3402287
+ ...processing event 2710000 of 3402287
+ ...processing event 2711000 of 3402287
+ ...processing event 2712000 of 3402287
+ ...processing event 2713000 of 3402287
+ ...processing event 2714000 of 3402287
+ ...processing event 2715000 of 3402287
+ ...processing event 2716000 of 3402287
+ ...processing event 2717000 of 3402287
+ ...processing event 2718000 of 3402287
+ ...processing event 2719000 of 3402287
+ ...processing event 2720000 of 3402287
+ ...processing event 2721000 of 3402287
+ ...processing event 2722000 of 3402287
+ ...processing event 2723000 of 3402287
+ ...processing event 2724000 of 3402287
+ ...processing event 2725000 of 3402287
+ ...processing event 2726000 of 3402287
+ ...processing event 2727000 of 3402287
+ ...processing event 2728000 of 3402287
+ ...processing event 2729000 of 3402287
+ ...processing event 2730000 of 3402287
+ ...processing event 2731000 of 3402287
+ ...processing event 2732000 of 3402287
+ ...processing event 2733000 of 3402287
+ ...processing event 2734000 of 3402287
+ ...processing event 2735000 of 3402287
+ ...processing event 2736000 of 3402287
+ ...processing event 2737000 of 3402287
+ ...processing event 2738000 of 3402287
+ ...processing event 2739000 of 3402287
+ ...processing event 2740000 of 3402287
+ ...processing event 2741000 of 3402287
+ ...processing event 2742000 of 3402287
+ ...processing event 2743000 of 3402287
+ ...processing event 2744000 of 3402287
+ ...processing event 2745000 of 3402287
+ ...processing event 2746000 of 3402287
+ ...processing event 2747000 of 3402287
+ ...processing event 2748000 of 3402287
+ ...processing event 2749000 of 3402287
+ ...processing event 2750000 of 3402287
+ ...processing event 2751000 of 3402287
+ ...processing event 2752000 of 3402287
+ ...processing event 2753000 of 3402287
+ ...processing event 2754000 of 3402287
+ ...processing event 2755000 of 3402287
+ ...processing event 2756000 of 3402287
+ ...processing event 2757000 of 3402287
+2757781 timeDiff = 0.000191731
+29 -99
+Events in chn 29 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+ ...processing event 2758000 of 3402287
+ ...processing event 2759000 of 3402287
+ ...processing event 2760000 of 3402287
+ ...processing event 2761000 of 3402287
+2761447 timeDiff = 0.00127409
+38 -99
+ ...processing event 2762000 of 3402287
+ ...processing event 2763000 of 3402287
+ ...processing event 2764000 of 3402287
+ ...processing event 2765000 of 3402287
+ ...processing event 2766000 of 3402287
+ ...processing event 2767000 of 3402287
+ ...processing event 2768000 of 3402287
+ ...processing event 2769000 of 3402287
+ ...processing event 2770000 of 3402287
+ ...processing event 2771000 of 3402287
+ ...processing event 2772000 of 3402287
+ ...processing event 2773000 of 3402287
+ ...processing event 2774000 of 3402287
+ ...processing event 2775000 of 3402287
+2775064 timeDiff = 0.00162801
+10 -99
+Events in chn 10 and -99, in strings 2 and 0 -> NOT a BiPo EVENT
+ ...processing event 2776000 of 3402287
+ ...processing event 2777000 of 3402287
+ ...processing event 2778000 of 3402287
+ ...processing event 2779000 of 3402287
+ ...processing event 2780000 of 3402287
+ ...processing event 2781000 of 3402287
+2781029 timeDiff = 0.00123208
+37 -99
+ ...processing event 2782000 of 3402287
+ ...processing event 2783000 of 3402287
+ ...processing event 2784000 of 3402287
+ ...processing event 2785000 of 3402287
+ ...processing event 2786000 of 3402287
+ ...processing event 2787000 of 3402287
+ ...processing event 2788000 of 3402287
+ ...processing event 2789000 of 3402287
+ ...processing event 2790000 of 3402287
+ ...processing event 2791000 of 3402287
+ ...processing event 2792000 of 3402287
+ ...processing event 2793000 of 3402287
+ ...processing event 2794000 of 3402287
+ ...processing event 2795000 of 3402287
+ ...processing event 2796000 of 3402287
+ ...processing event 2797000 of 3402287
+ ...processing event 2798000 of 3402287
+ ...processing event 2799000 of 3402287
+ ...processing event 2800000 of 3402287
+ ...processing event 2801000 of 3402287
+ ...processing event 2802000 of 3402287
+2802355 timeDiff = 0.00159166
+12 -99
+Events in chn 12 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 2803000 of 3402287
+ ...processing event 2804000 of 3402287
+ ...processing event 2805000 of 3402287
+ ...processing event 2806000 of 3402287
+ ...processing event 2807000 of 3402287
+ ...processing event 2808000 of 3402287
+ ...processing event 2809000 of 3402287
+ ...processing event 2810000 of 3402287
+ ...processing event 2811000 of 3402287
+ ...processing event 2812000 of 3402287
+ ...processing event 2813000 of 3402287
+2813210 timeDiff = 0.000555693
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 2814000 of 3402287
+ ...processing event 2815000 of 3402287
+ ...processing event 2816000 of 3402287
+ ...processing event 2817000 of 3402287
+ ...processing event 2818000 of 3402287
+ ...processing event 2819000 of 3402287
+ ...processing event 2820000 of 3402287
+ ...processing event 2821000 of 3402287
+ ...processing event 2822000 of 3402287
+ ...processing event 2823000 of 3402287
+2823814 timeDiff = 0.00111735
+39 -99
+ ...processing event 2824000 of 3402287
+ ...processing event 2825000 of 3402287
+ ...processing event 2826000 of 3402287
+ ...processing event 2827000 of 3402287
+ ...processing event 2828000 of 3402287
+ ...processing event 2829000 of 3402287
+ ...processing event 2830000 of 3402287
+ ...processing event 2831000 of 3402287
+ ...processing event 2832000 of 3402287
+ ...processing event 2833000 of 3402287
+ ...processing event 2834000 of 3402287
+ ...processing event 2835000 of 3402287
+ ...processing event 2836000 of 3402287
+ ...processing event 2837000 of 3402287
+ ...processing event 2838000 of 3402287
+2838496 timeDiff = 0.00109858
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+2838496 timeDiff = 0.00118352
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+2838496 timeDiff = 0.00125736
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 2839000 of 3402287
+ ...processing event 2840000 of 3402287
+ ...processing event 2841000 of 3402287
+ ...processing event 2842000 of 3402287
+ ...processing event 2843000 of 3402287
+ ...processing event 2844000 of 3402287
+ ...processing event 2845000 of 3402287
+ ...processing event 2846000 of 3402287
+ ...processing event 2847000 of 3402287
+ ...processing event 2848000 of 3402287
+ ...processing event 2849000 of 3402287
+ ...processing event 2850000 of 3402287
+2850733 timeDiff = 0.000521662
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 2851000 of 3402287
+ ...processing event 2852000 of 3402287
+ ...processing event 2853000 of 3402287
+ ...processing event 2854000 of 3402287
+ ...processing event 2855000 of 3402287
+2855721 timeDiff = 0.00140948
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 2856000 of 3402287
+ ...processing event 2857000 of 3402287
+ ...processing event 2858000 of 3402287
+ ...processing event 2859000 of 3402287
+ ...processing event 2860000 of 3402287
+ ...processing event 2861000 of 3402287
+ ...processing event 2862000 of 3402287
+ ...processing event 2863000 of 3402287
+ ...processing event 2864000 of 3402287
+2864419 timeDiff = 0.000688863
+29 -99
+Events in chn 29 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+2864841 timeDiff = 0.00142149
+40 -99
+ ...processing event 2865000 of 3402287
+ ...processing event 2866000 of 3402287
+ ...processing event 2867000 of 3402287
+ ...processing event 2868000 of 3402287
+ ...processing event 2869000 of 3402287
+ ...processing event 2870000 of 3402287
+ ...processing event 2871000 of 3402287
+ ...processing event 2872000 of 3402287
+ ...processing event 2873000 of 3402287
+ ...processing event 2874000 of 3402287
+ ...processing event 2875000 of 3402287
+ ...processing event 2876000 of 3402287
+ ...processing event 2877000 of 3402287
+ ...processing event 2878000 of 3402287
+ ...processing event 2879000 of 3402287
+ ...processing event 2880000 of 3402287
+ ...processing event 2881000 of 3402287
+ ...processing event 2882000 of 3402287
+2882942 timeDiff = 0.000978904
+8 -99
+Events in chn 8 and -99, in strings 2 and 0 -> NOT a BiPo EVENT
+ ...processing event 2883000 of 3402287
+2883939 timeDiff = 0.00122874
+34 -99
+Events in chn 34 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 2884000 of 3402287
+ ...processing event 2885000 of 3402287
+ ...processing event 2886000 of 3402287
+ ...processing event 2887000 of 3402287
+ ...processing event 2888000 of 3402287
+ ...processing event 2889000 of 3402287
+ ...processing event 2890000 of 3402287
+ ...processing event 2891000 of 3402287
+ ...processing event 2892000 of 3402287
+ ...processing event 2893000 of 3402287
+ ...processing event 2894000 of 3402287
+2894848 timeDiff = 0.000677223
+8 -99
+Events in chn 8 and -99, in strings 2 and 0 -> NOT a BiPo EVENT
+ ...processing event 2895000 of 3402287
+ ...processing event 2896000 of 3402287
+ ...processing event 2897000 of 3402287
+ ...processing event 2898000 of 3402287
+ ...processing event 2899000 of 3402287
+ ...processing event 2900000 of 3402287
+ ...processing event 2901000 of 3402287
+ ...processing event 2902000 of 3402287
+ ...processing event 2903000 of 3402287
+ ...processing event 2904000 of 3402287
+ ...processing event 2905000 of 3402287
+ ...processing event 2906000 of 3402287
+ ...processing event 2907000 of 3402287
+ ...processing event 2908000 of 3402287
+ ...processing event 2909000 of 3402287
+ ...processing event 2910000 of 3402287
+ ...processing event 2911000 of 3402287
+ ...processing event 2912000 of 3402287
+ ...processing event 2913000 of 3402287
+ ...processing event 2914000 of 3402287
+ ...processing event 2915000 of 3402287
+ ...processing event 2916000 of 3402287
+ ...processing event 2917000 of 3402287
+ ...processing event 2918000 of 3402287
+ ...processing event 2919000 of 3402287
+ ...processing event 2920000 of 3402287
+ ...processing event 2921000 of 3402287
+ ...processing event 2922000 of 3402287
+ ...processing event 2923000 of 3402287
+ ...processing event 2924000 of 3402287
+ ...processing event 2925000 of 3402287
+ ...processing event 2926000 of 3402287
+ ...processing event 2927000 of 3402287
+ ...processing event 2928000 of 3402287
+ ...processing event 2929000 of 3402287
+ ...processing event 2930000 of 3402287
+2930683 timeDiff = 0.000288262
+5 -99
+ ...processing event 2931000 of 3402287
+ ...processing event 2932000 of 3402287
+ ...processing event 2933000 of 3402287
+ ...processing event 2934000 of 3402287
+ ...processing event 2935000 of 3402287
+ ...processing event 2936000 of 3402287
+ ...processing event 2937000 of 3402287
+2937369 timeDiff = 0.000972685
+1 -99
+ ...processing event 2938000 of 3402287
+ ...processing event 2939000 of 3402287
+ ...processing event 2940000 of 3402287
+ ...processing event 2941000 of 3402287
+ ...processing event 2942000 of 3402287
+2942442 timeDiff = 0.00146343
+37 -99
+ ...processing event 2943000 of 3402287
+ ...processing event 2944000 of 3402287
+ ...processing event 2945000 of 3402287
+ ...processing event 2946000 of 3402287
+ ...processing event 2947000 of 3402287
+ ...processing event 2948000 of 3402287
+2948329 timeDiff = 0.000323301
+10 -99
+Events in chn 10 and -99, in strings 2 and 0 -> NOT a BiPo EVENT
+ ...processing event 2949000 of 3402287
+ ...processing event 2950000 of 3402287
+ ...processing event 2951000 of 3402287
+ ...processing event 2952000 of 3402287
+ ...processing event 2953000 of 3402287
+ ...processing event 2954000 of 3402287
+2954958 timeDiff = 0.00163069
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 2955000 of 3402287
+ ...processing event 2956000 of 3402287
+ ...processing event 2957000 of 3402287
+ ...processing event 2958000 of 3402287
+ ...processing event 2959000 of 3402287
+ ...processing event 2960000 of 3402287
+ ...processing event 2961000 of 3402287
+ ...processing event 2962000 of 3402287
+ ...processing event 2963000 of 3402287
+ ...processing event 2964000 of 3402287
+ ...processing event 2965000 of 3402287
+ ...processing event 2966000 of 3402287
+ ...processing event 2967000 of 3402287
+ ...processing event 2968000 of 3402287
+ ...processing event 2969000 of 3402287
+ ...processing event 2970000 of 3402287
+ ...processing event 2971000 of 3402287
+ ...processing event 2972000 of 3402287
+ ...processing event 2973000 of 3402287
+ ...processing event 2974000 of 3402287
+ ...processing event 2975000 of 3402287
+ ...processing event 2976000 of 3402287
+ ...processing event 2977000 of 3402287
+ ...processing event 2978000 of 3402287
+ ...processing event 2979000 of 3402287
+ ...processing event 2980000 of 3402287
+ ...processing event 2981000 of 3402287
+ ...processing event 2982000 of 3402287
+ ...processing event 2983000 of 3402287
+ ...processing event 2984000 of 3402287
+ ...processing event 2985000 of 3402287
+ ...processing event 2986000 of 3402287
+ ...processing event 2987000 of 3402287
+ ...processing event 2988000 of 3402287
+ ...processing event 2989000 of 3402287
+ ...processing event 2990000 of 3402287
+ ...processing event 2991000 of 3402287
+ ...processing event 2992000 of 3402287
+ ...processing event 2993000 of 3402287
+ ...processing event 2994000 of 3402287
+ ...processing event 2995000 of 3402287
+ ...processing event 2996000 of 3402287
+ ...processing event 2997000 of 3402287
+ ...processing event 2998000 of 3402287
+ ...processing event 2999000 of 3402287
+ ...processing event 3000000 of 3402287
+ ...processing event 3001000 of 3402287
+ ...processing event 3002000 of 3402287
+ ...processing event 3003000 of 3402287
+ ...processing event 3004000 of 3402287
+ ...processing event 3005000 of 3402287
+ ...processing event 3006000 of 3402287
+3006314 timeDiff = 0.000846258
+24 -99
+Events in chn 24 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 3007000 of 3402287
+ ...processing event 3008000 of 3402287
+ ...processing event 3009000 of 3402287
+ ...processing event 3010000 of 3402287
+ ...processing event 3011000 of 3402287
+3011960 timeDiff = 0.0014656
+10 -99
+Events in chn 10 and -99, in strings 2 and 0 -> NOT a BiPo EVENT
+3011960 timeDiff = 0.00158125
+10 -99
+Events in chn 10 and -99, in strings 2 and 0 -> NOT a BiPo EVENT
+ ...processing event 3012000 of 3402287
+ ...processing event 3013000 of 3402287
+ ...processing event 3014000 of 3402287
+ ...processing event 3015000 of 3402287
+ ...processing event 3016000 of 3402287
+ ...processing event 3017000 of 3402287
+3017240 timeDiff = 0.000445333
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 3018000 of 3402287
+ ...processing event 3019000 of 3402287
+ ...processing event 3020000 of 3402287
+ ...processing event 3021000 of 3402287
+ ...processing event 3022000 of 3402287
+ ...processing event 3023000 of 3402287
+ ...processing event 3024000 of 3402287
+ ...processing event 3025000 of 3402287
+ ...processing event 3026000 of 3402287
+ ...processing event 3027000 of 3402287
+ ...processing event 3028000 of 3402287
+ ...processing event 3029000 of 3402287
+ ...processing event 3030000 of 3402287
+ ...processing event 3031000 of 3402287
+ ...processing event 3032000 of 3402287
+ ...processing event 3033000 of 3402287
+ ...processing event 3034000 of 3402287
+ ...processing event 3035000 of 3402287
+3035651 timeDiff = 7.13801e-05
+21 -99
+Events in chn 21 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 3036000 of 3402287
+ ...processing event 3037000 of 3402287
+ ...processing event 3038000 of 3402287
+ ...processing event 3039000 of 3402287
+3039207 timeDiff = 0.00157187
+26 -99
+Events in chn 26 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 3040000 of 3402287
+ ...processing event 3041000 of 3402287
+ ...processing event 3042000 of 3402287
+ ...processing event 3043000 of 3402287
+ ...processing event 3044000 of 3402287
+ ...processing event 3045000 of 3402287
+ ...processing event 3046000 of 3402287
+ ...processing event 3047000 of 3402287
+3047114 timeDiff = 0.000550603
+28 -99
+Events in chn 28 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+ ...processing event 3048000 of 3402287
+ ...processing event 3049000 of 3402287
+ ...processing event 3050000 of 3402287
+3050946 timeDiff = 0.00149367
+26 38
+ ...processing event 3051000 of 3402287
+ ...processing event 3052000 of 3402287
+ ...processing event 3053000 of 3402287
+ ...processing event 3054000 of 3402287
+ ...processing event 3055000 of 3402287
+3055081 timeDiff = 0.00011901
+30 -99
+Events in chn 30 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 3056000 of 3402287
+ ...processing event 3057000 of 3402287
+ ...processing event 3058000 of 3402287
+ ...processing event 3059000 of 3402287
+ ...processing event 3060000 of 3402287
+ ...processing event 3061000 of 3402287
+ ...processing event 3062000 of 3402287
+ ...processing event 3063000 of 3402287
+ ...processing event 3064000 of 3402287
+ ...processing event 3065000 of 3402287
+ ...processing event 3066000 of 3402287
+ ...processing event 3067000 of 3402287
+ ...processing event 3068000 of 3402287
+ ...processing event 3069000 of 3402287
+ ...processing event 3070000 of 3402287
+ ...processing event 3071000 of 3402287
+ ...processing event 3072000 of 3402287
+ ...processing event 3073000 of 3402287
+ ...processing event 3074000 of 3402287
+ ...processing event 3075000 of 3402287
+ ...processing event 3076000 of 3402287
+ ...processing event 3077000 of 3402287
+ ...processing event 3078000 of 3402287
+ ...processing event 3079000 of 3402287
+ ...processing event 3080000 of 3402287
+ ...processing event 3081000 of 3402287
+ ...processing event 3082000 of 3402287
+ ...processing event 3083000 of 3402287
+ ...processing event 3084000 of 3402287
+ ...processing event 3085000 of 3402287
+ ...processing event 3086000 of 3402287
+3086787 timeDiff = 0.000127561
+29 -99
+Events in chn 29 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+ ...processing event 3087000 of 3402287
+ ...processing event 3088000 of 3402287
+ ...processing event 3089000 of 3402287
+ ...processing event 3090000 of 3402287
+ ...processing event 3091000 of 3402287
+ ...processing event 3092000 of 3402287
+ ...processing event 3093000 of 3402287
+ ...processing event 3094000 of 3402287
+ ...processing event 3095000 of 3402287
+3095588 timeDiff = 7.88301e-05
+36 -99
+Events in chn 36 and -99, in strings 6 and 0 -> NOT a BiPo EVENT
+ ...processing event 3096000 of 3402287
+ ...processing event 3097000 of 3402287
+3097665 timeDiff = 0.000692664
+0 -99
+ ...processing event 3098000 of 3402287
+ ...processing event 3099000 of 3402287
+ ...processing event 3100000 of 3402287
+ ...processing event 3101000 of 3402287
+ ...processing event 3102000 of 3402287
+3102017 timeDiff = 0.000525273
+37 -99
+ ...processing event 3103000 of 3402287
+ ...processing event 3104000 of 3402287
+ ...processing event 3105000 of 3402287
+3105472 timeDiff = 0.00158856
+39 8
+ ...processing event 3106000 of 3402287
+ ...processing event 3107000 of 3402287
+ ...processing event 3108000 of 3402287
+3108560 timeDiff = 8.2301e-05
+37 -99
+ ...processing event 3109000 of 3402287
+ ...processing event 3110000 of 3402287
+ ...processing event 3111000 of 3402287
+ ...processing event 3112000 of 3402287
+ ...processing event 3113000 of 3402287
+ ...processing event 3114000 of 3402287
+ ...processing event 3115000 of 3402287
+3115602 timeDiff = 0.00112681
+37 -99
+ ...processing event 3116000 of 3402287
+ ...processing event 3117000 of 3402287
+3117487 timeDiff = 0.000580563
+8 -99
+Events in chn 8 and -99, in strings 2 and 0 -> NOT a BiPo EVENT
+ ...processing event 3118000 of 3402287
+ ...processing event 3119000 of 3402287
+ ...processing event 3120000 of 3402287
+ ...processing event 3121000 of 3402287
+ ...processing event 3122000 of 3402287
+ ...processing event 3123000 of 3402287
+ ...processing event 3124000 of 3402287
+ ...processing event 3125000 of 3402287
+ ...processing event 3126000 of 3402287
+ ...processing event 3127000 of 3402287
+ ...processing event 3128000 of 3402287
+ ...processing event 3129000 of 3402287
+ ...processing event 3130000 of 3402287
+ ...processing event 3131000 of 3402287
+ ...processing event 3132000 of 3402287
+ ...processing event 3133000 of 3402287
+ ...processing event 3134000 of 3402287
+ ...processing event 3135000 of 3402287
+ ...processing event 3136000 of 3402287
+ ...processing event 3137000 of 3402287
+ ...processing event 3138000 of 3402287
+ ...processing event 3139000 of 3402287
+ ...processing event 3140000 of 3402287
+ ...processing event 3141000 of 3402287
+ ...processing event 3142000 of 3402287
+ ...processing event 3143000 of 3402287
+ ...processing event 3144000 of 3402287
+ ...processing event 3145000 of 3402287
+ ...processing event 3146000 of 3402287
+ ...processing event 3147000 of 3402287
+ ...processing event 3148000 of 3402287
+ ...processing event 3149000 of 3402287
+ ...processing event 3150000 of 3402287
+3150659 timeDiff = 7.8131e-05
+8 -99
+Events in chn 8 and -99, in strings 2 and 0 -> NOT a BiPo EVENT
+ ...processing event 3151000 of 3402287
+ ...processing event 3152000 of 3402287
+ ...processing event 3153000 of 3402287
+ ...processing event 3154000 of 3402287
+ ...processing event 3155000 of 3402287
+ ...processing event 3156000 of 3402287
+ ...processing event 3157000 of 3402287
+ ...processing event 3158000 of 3402287
+ ...processing event 3159000 of 3402287
+ ...processing event 3160000 of 3402287
+ ...processing event 3161000 of 3402287
+ ...processing event 3162000 of 3402287
+ ...processing event 3163000 of 3402287
+ ...processing event 3164000 of 3402287
+ ...processing event 3165000 of 3402287
+ ...processing event 3166000 of 3402287
+ ...processing event 3167000 of 3402287
+ ...processing event 3168000 of 3402287
+ ...processing event 3169000 of 3402287
+ ...processing event 3170000 of 3402287
+ ...processing event 3171000 of 3402287
+ ...processing event 3172000 of 3402287
+ ...processing event 3173000 of 3402287
+ ...processing event 3174000 of 3402287
+ ...processing event 3175000 of 3402287
+ ...processing event 3176000 of 3402287
+3176222 timeDiff = 0.000433622
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 3177000 of 3402287
+ ...processing event 3178000 of 3402287
+3178619 timeDiff = 0.000931425
+27 -99
+Events in chn 27 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+ ...processing event 3179000 of 3402287
+ ...processing event 3180000 of 3402287
+3180179 timeDiff = 0.00113141
+27 -99
+Events in chn 27 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+ ...processing event 3181000 of 3402287
+ ...processing event 3182000 of 3402287
+ ...processing event 3183000 of 3402287
+ ...processing event 3184000 of 3402287
+3184812 timeDiff = 0.000458213
+37 -99
+ ...processing event 3185000 of 3402287
+ ...processing event 3186000 of 3402287
+ ...processing event 3187000 of 3402287
+ ...processing event 3188000 of 3402287
+ ...processing event 3189000 of 3402287
+ ...processing event 3190000 of 3402287
+ ...processing event 3191000 of 3402287
+ ...processing event 3192000 of 3402287
+ ...processing event 3193000 of 3402287
+ ...processing event 3194000 of 3402287
+ ...processing event 3195000 of 3402287
+ ...processing event 3196000 of 3402287
+ ...processing event 3197000 of 3402287
+ ...processing event 3198000 of 3402287
+ ...processing event 3199000 of 3402287
+ ...processing event 3200000 of 3402287
+ ...processing event 3201000 of 3402287
+ ...processing event 3202000 of 3402287
+ ...processing event 3203000 of 3402287
+ ...processing event 3204000 of 3402287
+ ...processing event 3205000 of 3402287
+ ...processing event 3206000 of 3402287
+ ...processing event 3207000 of 3402287
+ ...processing event 3208000 of 3402287
+ ...processing event 3209000 of 3402287
+ ...processing event 3210000 of 3402287
+ ...processing event 3211000 of 3402287
+ ...processing event 3212000 of 3402287
+ ...processing event 3213000 of 3402287
+ ...processing event 3214000 of 3402287
+ ...processing event 3215000 of 3402287
+ ...processing event 3216000 of 3402287
+ ...processing event 3217000 of 3402287
+ ...processing event 3218000 of 3402287
+ ...processing event 3219000 of 3402287
+ ...processing event 3220000 of 3402287
+ ...processing event 3221000 of 3402287
+3221355 timeDiff = 0.000194521
+9 -99
+Events in chn 9 and -99, in strings 2 and 0 -> NOT a BiPo EVENT
+ ...processing event 3222000 of 3402287
+ ...processing event 3223000 of 3402287
+ ...processing event 3224000 of 3402287
+ ...processing event 3225000 of 3402287
+ ...processing event 3226000 of 3402287
+ ...processing event 3227000 of 3402287
+ ...processing event 3228000 of 3402287
+ ...processing event 3229000 of 3402287
+ ...processing event 3230000 of 3402287
+ ...processing event 3231000 of 3402287
+ ...processing event 3232000 of 3402287
+ ...processing event 3233000 of 3402287
+ ...processing event 3234000 of 3402287
+ ...processing event 3235000 of 3402287
+ ...processing event 3236000 of 3402287
+ ...processing event 3237000 of 3402287
+ ...processing event 3238000 of 3402287
+ ...processing event 3239000 of 3402287
+ ...processing event 3240000 of 3402287
+ ...processing event 3241000 of 3402287
+ ...processing event 3242000 of 3402287
+ ...processing event 3243000 of 3402287
+3243122 timeDiff = 0.000859794
+38 -99
+ ...processing event 3244000 of 3402287
+ ...processing event 3245000 of 3402287
+3245085 timeDiff = 0.00139284
+18 -99
+Events in chn 18 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+ ...processing event 3246000 of 3402287
+ ...processing event 3247000 of 3402287
+ ...processing event 3248000 of 3402287
+ ...processing event 3249000 of 3402287
+ ...processing event 3250000 of 3402287
+ ...processing event 3251000 of 3402287
+ ...processing event 3252000 of 3402287
+ ...processing event 3253000 of 3402287
+ ...processing event 3254000 of 3402287
+ ...processing event 3255000 of 3402287
+ ...processing event 3256000 of 3402287
+ ...processing event 3257000 of 3402287
+ ...processing event 3258000 of 3402287
+ ...processing event 3259000 of 3402287
+ ...processing event 3260000 of 3402287
+ ...processing event 3261000 of 3402287
+ ...processing event 3262000 of 3402287
+ ...processing event 3263000 of 3402287
+ ...processing event 3264000 of 3402287
+ ...processing event 3265000 of 3402287
+ ...processing event 3266000 of 3402287
+ ...processing event 3267000 of 3402287
+ ...processing event 3268000 of 3402287
+ ...processing event 3269000 of 3402287
+ ...processing event 3270000 of 3402287
+ ...processing event 3271000 of 3402287
+ ...processing event 3272000 of 3402287
+ ...processing event 3273000 of 3402287
+ ...processing event 3274000 of 3402287
+ ...processing event 3275000 of 3402287
+ ...processing event 3276000 of 3402287
+ ...processing event 3277000 of 3402287
+ ...processing event 3278000 of 3402287
+ ...processing event 3279000 of 3402287
+ ...processing event 3280000 of 3402287
+ ...processing event 3281000 of 3402287
+ ...processing event 3282000 of 3402287
+ ...processing event 3283000 of 3402287
+ ...processing event 3284000 of 3402287
+ ...processing event 3285000 of 3402287
+ ...processing event 3286000 of 3402287
+ ...processing event 3287000 of 3402287
+ ...processing event 3288000 of 3402287
+ ...processing event 3289000 of 3402287
+ ...processing event 3290000 of 3402287
+ ...processing event 3291000 of 3402287
+ ...processing event 3292000 of 3402287
+ ...processing event 3293000 of 3402287
+ ...processing event 3294000 of 3402287
+ ...processing event 3295000 of 3402287
+ ...processing event 3296000 of 3402287
+ ...processing event 3297000 of 3402287
+ ...processing event 3298000 of 3402287
+ ...processing event 3299000 of 3402287
+3299079 timeDiff = 0.000431892
+37 -99
+ ...processing event 3300000 of 3402287
+ ...processing event 3301000 of 3402287
+ ...processing event 3302000 of 3402287
+ ...processing event 3303000 of 3402287
+ ...processing event 3304000 of 3402287
+ ...processing event 3305000 of 3402287
+ ...processing event 3306000 of 3402287
+ ...processing event 3307000 of 3402287
+ ...processing event 3308000 of 3402287
+ ...processing event 3309000 of 3402287
+ ...processing event 3310000 of 3402287
+ ...processing event 3311000 of 3402287
+3311141 timeDiff = 0.00104698
+38 -99
+ ...processing event 3312000 of 3402287
+ ...processing event 3313000 of 3402287
+ ...processing event 3314000 of 3402287
+ ...processing event 3315000 of 3402287
+ ...processing event 3316000 of 3402287
+ ...processing event 3317000 of 3402287
+ ...processing event 3318000 of 3402287
+ ...processing event 3319000 of 3402287
+ ...processing event 3320000 of 3402287
+ ...processing event 3321000 of 3402287
+ ...processing event 3322000 of 3402287
+ ...processing event 3323000 of 3402287
+ ...processing event 3324000 of 3402287
+ ...processing event 3325000 of 3402287
+ ...processing event 3326000 of 3402287
+ ...processing event 3327000 of 3402287
+ ...processing event 3328000 of 3402287
+ ...processing event 3329000 of 3402287
+3329312 timeDiff = 0.000473862
+7 -99
+ ...processing event 3330000 of 3402287
+ ...processing event 3331000 of 3402287
+ ...processing event 3332000 of 3402287
+ ...processing event 3333000 of 3402287
+ ...processing event 3334000 of 3402287
+ ...processing event 3335000 of 3402287
+ ...processing event 3336000 of 3402287
+ ...processing event 3337000 of 3402287
+ ...processing event 3338000 of 3402287
+ ...processing event 3339000 of 3402287
+ ...processing event 3340000 of 3402287
+ ...processing event 3341000 of 3402287
+ ...processing event 3342000 of 3402287
+ ...processing event 3343000 of 3402287
+ ...processing event 3344000 of 3402287
+3344473 timeDiff = 0.00140331
+8 -99
+Events in chn 8 and -99, in strings 2 and 0 -> NOT a BiPo EVENT
+ ...processing event 3345000 of 3402287
+ ...processing event 3346000 of 3402287
+ ...processing event 3347000 of 3402287
+ ...processing event 3348000 of 3402287
+ ...processing event 3349000 of 3402287
+ ...processing event 3350000 of 3402287
+ ...processing event 3351000 of 3402287
+ ...processing event 3352000 of 3402287
+3352508 timeDiff = 0.00140624
+27 -99
+Events in chn 27 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+3352920 timeDiff = 0.001032
+23 -99
+Events in chn 23 and -99, in strings 4 and 0 -> NOT a BiPo EVENT
+ ...processing event 3353000 of 3402287
+ ...processing event 3354000 of 3402287
+ ...processing event 3355000 of 3402287
+ ...processing event 3356000 of 3402287
+ ...processing event 3357000 of 3402287
+ ...processing event 3358000 of 3402287
+ ...processing event 3359000 of 3402287
+ ...processing event 3360000 of 3402287
+ ...processing event 3361000 of 3402287
+ ...processing event 3362000 of 3402287
+ ...processing event 3363000 of 3402287
+ ...processing event 3364000 of 3402287
+ ...processing event 3365000 of 3402287
+ ...processing event 3366000 of 3402287
+ ...processing event 3367000 of 3402287
+ ...processing event 3368000 of 3402287
+ ...processing event 3369000 of 3402287
+ ...processing event 3370000 of 3402287
+ ...processing event 3371000 of 3402287
+ ...processing event 3372000 of 3402287
+ ...processing event 3373000 of 3402287
+ ...processing event 3374000 of 3402287
+ ...processing event 3375000 of 3402287
+ ...processing event 3376000 of 3402287
+ ...processing event 3377000 of 3402287
+ ...processing event 3378000 of 3402287
+ ...processing event 3379000 of 3402287
+ ...processing event 3380000 of 3402287
+ ...processing event 3381000 of 3402287
+ ...processing event 3382000 of 3402287
+ ...processing event 3383000 of 3402287
+ ...processing event 3384000 of 3402287
+ ...processing event 3385000 of 3402287
+ ...processing event 3386000 of 3402287
+3386225 timeDiff = 0.00149995
+37 -99
+ ...processing event 3387000 of 3402287
+ ...processing event 3388000 of 3402287
+ ...processing event 3389000 of 3402287
+ ...processing event 3390000 of 3402287
+ ...processing event 3391000 of 3402287
+3391133 timeDiff = 0.00115759
+29 -99
+Events in chn 29 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+3391133 timeDiff = 0.00122011
+29 -99
+Events in chn 29 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+3391133 timeDiff = 0.00127964
+29 -99
+Events in chn 29 and -99, in strings 5 and 0 -> NOT a BiPo EVENT
+ ...processing event 3392000 of 3402287
+ ...processing event 3393000 of 3402287
+ ...processing event 3394000 of 3402287
+3394588 timeDiff = 9.746e-05
+12 -99
+Events in chn 12 and -99, in strings 3 and 0 -> NOT a BiPo EVENT
+3394984 timeDiff = 0.000744044
+39 -99
+ ...processing event 3395000 of 3402287
+ ...processing event 3396000 of 3402287
+ ...processing event 3397000 of 3402287
+ ...processing event 3398000 of 3402287
+ ...processing event 3399000 of 3402287
+ ...processing event 3400000 of 3402287
+ ...processing event 3401000 of 3402287
+ ...processing event 3402000 of 3402287
+ 
+ Time for master Chain entries loops: real time = 30037.4s. CpuTime =  26887.9s
+ 
+ Triggered Events                               3402287
+ Events whithin 10*164 us                       662
+ Events whithin 10*164 us in the same detector  3
+ 

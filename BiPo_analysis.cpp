@@ -31,7 +31,7 @@ void BiPo_analysis(){
   const int nChn = 41;
   int firstRun = 95;
   int lastRun = 114;
-  char *mapping_file = Form("mapping_phaseII+.txt");
+  char *mapping_file = Form("mapping_phaseII-post.txt");
   
   //------- DETECTOR MAPPING -------
   struct detector {
